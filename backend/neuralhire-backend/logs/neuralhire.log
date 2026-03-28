@@ -1,0 +1,1579 @@
+2026-03-28T03:20:25.467631+0530 | INFO | ============================================================
+2026-03-28T03:20:25.467886+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:20:25.467962+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:20:25.468040+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:20:25.468131+0530 | INFO | ============================================================
+2026-03-28T03:20:29.098047+0530 | INFO | ============================================================
+2026-03-28T03:20:29.098327+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:20:29.099045+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:20:29.099116+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:20:29.099161+0530 | INFO | ============================================================
+2026-03-28T03:20:50.223413+0530 | INFO | ============================================================
+2026-03-28T03:20:50.223722+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:20:50.223799+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:20:50.223859+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:20:50.223907+0530 | INFO | ============================================================
+2026-03-28T03:21:11.031023+0530 | INFO | ============================================================
+2026-03-28T03:21:11.031253+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:21:11.031315+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:21:11.031356+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:21:11.031390+0530 | INFO | ============================================================
+2026-03-28T03:21:53.846949+0530 | INFO | ============================================================
+2026-03-28T03:21:53.847273+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:21:53.847745+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:21:53.847868+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:21:53.847969+0530 | INFO | ============================================================
+2026-03-28T03:22:00.560759+0530 | INFO | GET /api/health → 200
+2026-03-28T03:22:04.738091+0530 | INFO | Words for 'RE': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RESPONSE']
+2026-03-28T03:22:04.738732+0530 | INFO | GET /api/words → 200
+2026-03-28T03:22:04.932762+0530 | INFO | Demo data loaded: ['demo-session-A', 'demo-session-B', 'demo-session-C']
+2026-03-28T03:22:04.933416+0530 | INFO | POST /api/demo/load → 200
+2026-03-28T03:31:53.031734+0530 | INFO | ============================================================
+2026-03-28T03:31:53.032059+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:31:53.032126+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:31:53.032170+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:31:53.032207+0530 | INFO | ============================================================
+2026-03-28T03:32:28.775322+0530 | INFO | ============================================================
+2026-03-28T03:32:28.775638+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:32:28.775787+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:32:28.775876+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:32:28.775954+0530 | INFO | ============================================================
+2026-03-28T03:32:29.103851+0530 | INFO | GET /api/health → 200
+2026-03-28T03:32:33.322736+0530 | ERROR | Groq question generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-28T03:32:33.332875+0530 | INFO | Session 2a81e357-fcf1-4811-adc1-55c0e4d964e6 started — Role: Python Developer
+2026-03-28T03:32:33.335174+0530 | INFO | POST /api/session/start → 200
+2026-03-28T03:32:38.293332+0530 | ERROR | Groq question generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-28T03:32:38.300499+0530 | INFO | Session 2800a6d0-6224-451c-b2f9-eb8c3832a6c9 started — Role: Backend Engineer
+2026-03-28T03:32:38.301263+0530 | INFO | POST /api/session/start → 200
+2026-03-28T03:36:40.187668+0530 | INFO | GET /api/health → 200
+2026-03-28T03:36:41.215443+0530 | ERROR | Groq question generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2026-03-28T03:36:41.223456+0530 | INFO | Session 0eb00dfe-aff7-4da7-acbd-8fa70d9f06e3 started — Role: Full Stack Developer
+2026-03-28T03:36:41.224088+0530 | INFO | POST /api/session/start → 200
+2026-03-28T03:41:17.840247+0530 | INFO | ============================================================
+2026-03-28T03:41:17.840641+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:41:17.840801+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:41:17.840931+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:41:17.841057+0530 | INFO | ============================================================
+2026-03-28T03:41:45.628580+0530 | INFO | ============================================================
+2026-03-28T03:41:45.629168+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:41:45.629487+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:41:45.629747+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:41:45.629980+0530 | INFO | ============================================================
+2026-03-28T03:41:51.440024+0530 | INFO | GET /api/health → 200
+2026-03-28T03:41:56.054005+0530 | INFO | Question 1 generated for Machine Learning Engineer
+2026-03-28T03:41:56.069875+0530 | INFO | Session f04b637f-5603-4cc1-9999-234eeb7fb422 started — Role: Machine Learning Engineer
+2026-03-28T03:41:56.070773+0530 | INFO | POST /api/session/start → 200
+2026-03-28T03:43:40.810537+0530 | INFO | ============================================================
+2026-03-28T03:43:40.811006+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:43:40.811333+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:43:40.811593+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:43:40.811843+0530 | INFO | ============================================================
+2026-03-28T03:47:58.801888+0530 | INFO | ============================================================
+2026-03-28T03:47:58.803090+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:47:58.803442+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:47:58.803667+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:47:58.803918+0530 | INFO | ============================================================
+2026-03-28T03:48:04.288097+0530 | INFO | GET /api/health → 200
+2026-03-28T03:48:09.971592+0530 | INFO | Question 1 generated for Full Stack Developer
+2026-03-28T03:48:09.993115+0530 | INFO | Session 81fb2e11-3d6c-4e6d-9d2b-97959a924550 started — Role: Full Stack Developer
+2026-03-28T03:48:09.995786+0530 | INFO | POST /api/session/start → 200
+2026-03-28T03:48:09.998168+0530 | INFO | Words for 'PY': ['PYTHON']
+2026-03-28T03:48:09.999181+0530 | INFO | GET /api/words → 200
+2026-03-28T03:48:12.583395+0530 | INFO | POST /api/gesture → 422
+2026-03-28T03:48:20.140552+0530 | INFO | Gesture: Z (0.17)
+2026-03-28T03:48:20.141278+0530 | INFO | Gesture: Z conf=0.17
+2026-03-28T03:48:20.141781+0530 | INFO | POST /api/gesture → 200
+2026-03-28T03:48:24.755518+0530 | INFO | Words for 'RES': ['REST', 'RESPONSE']
+2026-03-28T03:48:24.756201+0530 | INFO | GET /api/words → 200
+2026-03-28T03:48:25.259699+0530 | INFO | Words for 'PY': ['PYTHON']
+2026-03-28T03:48:25.260419+0530 | INFO | GET /api/words → 200
+2026-03-28T03:48:29.495547+0530 | INFO | Demo data loaded: []
+2026-03-28T03:48:29.496284+0530 | INFO | POST /api/demo/load → 200
+2026-03-28T03:48:38.833871+0530 | INFO | Words for 'DE': ['DEBUG', 'DESIGN', 'DEPLOY', 'DESCRIBE']
+2026-03-28T03:48:38.835327+0530 | INFO | GET /api/words → 200
+2026-03-28T03:48:39.046953+0530 | INFO | Words for 'BA': ['BACKEND']
+2026-03-28T03:48:39.047471+0530 | INFO | GET /api/words → 200
+2026-03-28T03:50:14.272911+0530 | INFO | ============================================================
+2026-03-28T03:50:14.273344+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:50:14.273561+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:50:14.273802+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:50:14.274039+0530 | INFO | ============================================================
+2026-03-28T03:50:56.660407+0530 | INFO | OPTIONS /api/recruiter/signup → 200
+2026-03-28T03:50:56.857337+0530 | ERROR | Unhandled: POST /api/recruiter/signup — password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-03-28T03:51:19.088786+0530 | INFO | GET /api/health → 200
+2026-03-28T03:51:23.711852+0530 | ERROR | Unhandled: POST /api/recruiter/signup — password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-03-28T03:51:29.496563+0530 | ERROR | Unhandled: POST /api/recruiter/signup — password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-03-28T03:54:17.994481+0530 | INFO | ============================================================
+2026-03-28T03:54:17.994931+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:54:17.995262+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:54:17.995539+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:54:17.995844+0530 | INFO | ============================================================
+2026-03-28T03:54:18.807780+0530 | INFO | GET /api/health → 200
+2026-03-28T03:54:23.256526+0530 | ERROR | Password generation failed: password cannot be longer than 72 bytes, truncate manually if necessary (e.g. my_password[:72])
+2026-03-28T03:54:23.258084+0530 | INFO | POST /api/recruiter/signup → 500
+2026-03-28T03:55:07.979854+0530 | INFO | ============================================================
+2026-03-28T03:55:07.980339+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:55:07.980647+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:55:07.980890+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:55:07.981147+0530 | INFO | ============================================================
+2026-03-28T03:55:09.279317+0530 | INFO | Session created for recruiter_id=1
+2026-03-28T03:55:09.279857+0530 | INFO | New recruiter: test456@example.com | NeuralHire
+2026-03-28T03:55:09.281534+0530 | INFO | POST /api/recruiter/signup → 200
+2026-03-28T03:55:11.390375+0530 | ERROR | Welcome email failed for test456@example.com: The neuralhire.ai domain is not verified. Please, add and verify your domain on https://resend.com/domains
+2026-03-28T03:55:14.657902+0530 | INFO | Session created for recruiter_id=1
+2026-03-28T03:55:14.658792+0530 | INFO | Recruiter login: test456@example.com
+2026-03-28T03:55:14.660310+0530 | INFO | POST /api/recruiter/login → 200
+2026-03-28T03:58:07.464164+0530 | INFO | ============================================================
+2026-03-28T03:58:07.464963+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T03:58:07.465346+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T03:58:07.465583+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T03:58:07.465762+0530 | INFO | ============================================================
+2026-03-28T03:58:40.845398+0530 | INFO | Session created for recruiter_id=2
+2026-03-28T03:58:40.846192+0530 | INFO | New recruiter: tarunkumarsv60@gmail.com | acme
+2026-03-28T03:58:40.849180+0530 | INFO | POST /api/recruiter/signup → 200
+2026-03-28T03:58:42.367630+0530 | ERROR | Welcome email failed for tarunkumarsv60@gmail.com: The neuralhire.ai domain is not verified. Please, add and verify your domain on https://resend.com/domains
+2026-03-28T03:58:52.452610+0530 | INFO | OPTIONS /api/recruiter/sessions → 200
+2026-03-28T03:58:52.455878+0530 | INFO | OPTIONS /api/recruiter/sessions → 200
+2026-03-28T03:58:52.457802+0530 | INFO | GET /api/recruiter/sessions → 404
+2026-03-28T03:58:52.459437+0530 | INFO | GET /api/recruiter/sessions → 404
+2026-03-28T03:59:09.088286+0530 | INFO | OPTIONS /api/auth/recruiter/login → 200
+2026-03-28T03:59:09.089788+0530 | INFO | POST /api/auth/recruiter/login → 404
+2026-03-28T03:59:16.726718+0530 | INFO | POST /api/auth/recruiter/login → 404
+2026-03-28T03:59:17.214210+0530 | INFO | POST /api/auth/recruiter/login → 404
+2026-03-28T03:59:28.228210+0530 | INFO | GET /api/recruiter/sessions → 404
+2026-03-28T03:59:28.230030+0530 | INFO | GET /api/recruiter/sessions → 404
+2026-03-28T04:00:00.382040+0530 | INFO | GET /api/health → 200
+2026-03-28T04:00:06.191234+0530 | INFO | Session created for recruiter_id=1
+2026-03-28T04:00:06.191593+0530 | INFO | Recruiter login: test456@example.com
+2026-03-28T04:00:06.193092+0530 | INFO | POST /api/recruiter/login → 200
+2026-03-28T04:00:10.869519+0530 | INFO | Recruiter test456@example.com fetched 0 candidates
+2026-03-28T04:00:10.870055+0530 | INFO | GET /api/recruiter/candidates → 200
+2026-03-28T04:00:15.638899+0530 | INFO | OPTIONS /api/recruiter/login → 200
+2026-03-28T04:00:50.166020+0530 | INFO | ============================================================
+2026-03-28T04:00:50.166479+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:00:50.166712+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:00:50.166889+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:00:50.167054+0530 | INFO | ============================================================
+2026-03-28T04:00:50.569232+0530 | INFO | GET /api/health → 200
+2026-03-28T04:00:55.539568+0530 | INFO | Session created for recruiter_id=3
+2026-03-28T04:00:55.539951+0530 | INFO | New recruiter: new@recruiter.com | My Company
+2026-03-28T04:00:55.541815+0530 | INFO | POST /api/recruiter/signup → 200
+2026-03-28T04:00:56.930904+0530 | ERROR | Welcome email failed for new@recruiter.com: The neuralhire.ai domain is not verified. Please, add and verify your domain on https://resend.com/domains
+2026-03-28T04:01:00.776939+0530 | INFO | Session created for recruiter_id=3
+2026-03-28T04:01:00.777356+0530 | INFO | Recruiter login: new@recruiter.com
+2026-03-28T04:01:00.778657+0530 | INFO | POST /api/recruiter/login → 200
+2026-03-28T04:01:40.863429+0530 | INFO | GET /api/health → 200
+2026-03-28T04:01:46.038318+0530 | INFO | OPTIONS /api/auth/candidate/login → 200
+2026-03-28T04:01:46.040577+0530 | INFO | POST /api/auth/candidate/login → 404
+2026-03-28T04:01:49.920810+0530 | INFO | Recruiter new@recruiter.com fetched 0 candidates
+2026-03-28T04:01:49.921674+0530 | INFO | GET /api/recruiter/candidates → 200
+2026-03-28T04:02:05.797956+0530 | INFO | POST /api/auth/candidate/login → 404
+2026-03-28T04:04:12.484629+0530 | INFO | ============================================================
+2026-03-28T04:04:12.485289+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:04:12.485627+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:04:12.485864+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:04:12.486088+0530 | INFO | ============================================================
+2026-03-28T04:04:47.447579+0530 | INFO | OPTIONS /api/recruiter/signup → 200
+2026-03-28T04:04:47.555861+0530 | INFO | POST /api/recruiter/signup → 409
+2026-03-28T04:04:58.404782+0530 | INFO | OPTIONS /api/recruiter/login → 200
+2026-03-28T04:04:58.711545+0530 | INFO | Session created for recruiter_id=2
+2026-03-28T04:04:58.712560+0530 | INFO | Recruiter login: tarunkumarsv60@gmail.com
+2026-03-28T04:04:58.718109+0530 | INFO | POST /api/recruiter/login → 200
+2026-03-28T04:04:58.774856+0530 | INFO | GET /api/recruiter/sessions → 404
+2026-03-28T04:04:58.783986+0530 | INFO | GET /api/recruiter/sessions → 404
+2026-03-28T04:06:35.802488+0530 | INFO | POST /api/auth/candidate/login → 404
+2026-03-28T04:15:38.393683+0530 | INFO | ============================================================
+2026-03-28T04:15:38.394138+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:15:38.394337+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:15:38.394476+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:15:38.394603+0530 | INFO | ============================================================
+2026-03-28T04:15:43.171303+0530 | INFO | GET /api/health → 200
+2026-03-28T04:15:43.571454+0530 | INFO | Demo data loaded: []
+2026-03-28T04:15:43.572447+0530 | INFO | POST /api/demo/load → 200
+2026-03-28T04:15:47.542528+0530 | INFO | Session created for recruiter_id=4
+2026-03-28T04:15:47.543235+0530 | INFO | New recruiter: test@example.com | Test Company
+2026-03-28T04:15:47.545134+0530 | INFO | POST /api/recruiter/signup → 200
+2026-03-28T04:15:49.453645+0530 | ERROR | Welcome email failed for test@example.com: The neuralhire.ai domain is not verified. Please, add and verify your domain on https://resend.com/domains
+2026-03-28T04:15:51.548404+0530 | INFO | Session created for recruiter_id=4
+2026-03-28T04:15:51.548964+0530 | INFO | Recruiter login: test@example.com
+2026-03-28T04:15:51.550422+0530 | INFO | POST /api/recruiter/login → 200
+2026-03-28T04:15:55.002829+0530 | INFO | Recruiter test@example.com fetched 0 candidates
+2026-03-28T04:15:55.003804+0530 | INFO | GET /api/recruiter/candidates → 200
+2026-03-28T04:15:59.567092+0530 | INFO | Question 1 generated for Software Engineer
+2026-03-28T04:15:59.578156+0530 | INFO | Session cf21a52c-16c6-4c12-aad7-38e988ef9893 started — Role: Software Engineer
+2026-03-28T04:15:59.580532+0530 | INFO | POST /api/session/start → 200
+2026-03-28T04:16:10.030293+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T04:16:10.618114+0530 | INFO | Ideal answer generated for: Design a high-performance caching layer using Pyth...
+2026-03-28T04:16:11.100286+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:11.100837+0530 | INFO | Scored answer: final=9.12 semantic=0.83 claude=0.85
+2026-03-28T04:16:11.441794+0530 | INFO | Follow-up generated with score 9.1
+2026-03-28T04:16:11.452451+0530 | INFO | Answer scored 9.1 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q2
+2026-03-28T04:16:11.455297+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:16:16.684269+0530 | INFO | Ideal answer generated for: How would you handle cache consistency and prevent...
+2026-03-28T04:16:17.094660+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:17.095352+0530 | INFO | Scored answer: final=9.08 semantic=0.82 claude=0.85
+2026-03-28T04:16:17.707976+0530 | INFO | Question 3 generated for Software Engineer
+2026-03-28T04:16:17.716952+0530 | INFO | Answer scored 9.1 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q3
+2026-03-28T04:16:17.718211+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:16:23.339949+0530 | INFO | Ideal answer generated for: Design a high-performance data pipeline using Pyth...
+2026-03-28T04:16:23.749656+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:23.750251+0530 | INFO | Scored answer: final=8.98 semantic=0.78 claude=0.85
+2026-03-28T04:16:24.159304+0530 | INFO | Follow-up generated with score 9.0
+2026-03-28T04:16:24.169409+0530 | INFO | Answer scored 9.0 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q4
+2026-03-28T04:16:24.170430+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:16:29.996484+0530 | INFO | Ideal answer generated for: How would you optimize the performance of the pand...
+2026-03-28T04:16:30.405233+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:30.405829+0530 | INFO | Scored answer: final=9.23 semantic=0.87 claude=0.85
+2026-03-28T04:16:30.917348+0530 | INFO | Question 5 generated for Software Engineer
+2026-03-28T04:16:30.923594+0530 | INFO | Answer scored 9.2 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q5
+2026-03-28T04:16:30.924378+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:16:36.484556+0530 | INFO | Ideal answer generated for: Design a high-performance data pipeline using Pyth...
+2026-03-28T04:16:37.060905+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:37.061240+0530 | INFO | Scored answer: final=9.07 semantic=0.82 claude=0.85
+2026-03-28T04:16:37.676232+0530 | INFO | Follow-up generated with score 9.1
+2026-03-28T04:16:37.683285+0530 | INFO | Answer scored 9.1 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q6
+2026-03-28T04:16:37.684184+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:16:43.924329+0530 | INFO | Ideal answer generated for: How would you handle potential performance bottlen...
+2026-03-28T04:16:44.536097+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:44.536540+0530 | INFO | Scored answer: final=8.29 semantic=0.62 claude=0.85
+2026-03-28T04:16:44.945678+0530 | INFO | Question 7 generated for Software Engineer
+2026-03-28T04:16:44.952494+0530 | INFO | Answer scored 8.3 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q7
+2026-03-28T04:16:44.952972+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:16:48.922293+0530 | INFO | GET /api/session/cf21a52c-16c6-4c12-aad7-38e988ef9893 → 200
+2026-03-28T04:16:56.415065+0530 | INFO | Ideal answer generated for: Design a high-performance data pipeline using Pyth...
+2026-03-28T04:16:56.823873+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:16:56.824432+0530 | INFO | Scored answer: final=8.22 semantic=0.60 claude=0.85
+2026-03-28T04:16:57.131196+0530 | INFO | Follow-up generated with score 8.2
+2026-03-28T04:16:57.139896+0530 | INFO | Answer scored 8.2 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q8
+2026-03-28T04:16:57.141246+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:17:02.456356+0530 | INFO | Ideal answer generated for: How would you handle potential errors and inconsis...
+2026-03-28T04:17:02.810515+0530 | INFO | Answer evaluated: score=8.5
+2026-03-28T04:17:02.811145+0530 | INFO | Scored answer: final=8.08 semantic=0.55 claude=0.85
+2026-03-28T04:17:02.819801+0530 | INFO | Answer scored 8.1 — session cf21a52c-16c6-4c12-aad7-38e988ef9893 Q8
+2026-03-28T04:17:02.820543+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:17:06.024437+0530 | INFO | Report generated for session cf21a52c-16c6-4c12-aad7-38e988ef9893
+2026-03-28T04:17:06.025281+0530 | INFO | GET /api/report/cf21a52c-16c6-4c12-aad7-38e988ef9893 → 200
+2026-03-28T04:17:52.968744+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T04:17:53.656483+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T04:17:53.667178+0530 | INFO | Session b91e304c-62f5-4e94-82d6-c889c10b3d35 started — Role: Software Developer
+2026-03-28T04:17:53.668250+0530 | INFO | POST /api/session/start → 200
+2026-03-28T04:18:21.062523+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T04:18:21.816350+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a Python g...
+2026-03-28T04:18:22.111729+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:18:22.112455+0530 | INFO | Scored answer: final=4.42 semantic=-0.03 claude=0.00
+2026-03-28T04:18:22.535079+0530 | INFO | Follow-up generated with score 4.4
+2026-03-28T04:18:22.542722+0530 | INFO | Answer scored 4.4 — session b91e304c-62f5-4e94-82d6-c889c10b3d35 Q2
+2026-03-28T04:18:22.544038+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:27:53.658757+0530 | INFO | ============================================================
+2026-03-28T04:27:53.659671+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:27:53.659947+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:27:53.660142+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:27:53.660321+0530 | INFO | ============================================================
+2026-03-28T04:30:18.955041+0530 | INFO | ============================================================
+2026-03-28T04:30:18.955771+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:30:18.956000+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:30:18.956264+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:30:18.956337+0530 | INFO | ============================================================
+2026-03-28T04:30:19.874184+0530 | INFO | GET /api/health → 200
+2026-03-28T04:32:26.265140+0530 | INFO | POST /api/gesture → 422
+2026-03-28T04:32:33.702403+0530 | INFO | Gesture: Z (0.17)
+2026-03-28T04:32:33.702568+0530 | INFO | Gesture: Z conf=0.17
+2026-03-28T04:32:33.702767+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:36:55.126636+0530 | INFO | ============================================================
+2026-03-28T04:36:55.127309+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:36:55.127671+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:36:55.127975+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:36:55.128596+0530 | INFO | ============================================================
+2026-03-28T04:37:30.404710+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T04:37:31.382774+0530 | INFO | Question 1 generated for Frontend Engineer
+2026-03-28T04:37:31.398002+0530 | INFO | Session df32091a-1c13-4164-85d9-e6d90ed348bf started — Role: Frontend Engineer
+2026-03-28T04:37:31.399767+0530 | INFO | POST /api/session/start → 200
+2026-03-28T04:37:55.293149+0530 | INFO | OPTIONS /api/transcribe → 200
+2026-03-28T04:37:55.302878+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T04:37:55.303608+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T04:37:55.309250+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T04:37:59.726428+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T04:38:00.370917+0530 | INFO | Ideal answer generated for: Describe a scenario where you're consuming a REST ...
+2026-03-28T04:38:00.796148+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:38:00.796883+0530 | INFO | Scored answer: final=4.48 semantic=-0.01 claude=0.00
+2026-03-28T04:38:01.135619+0530 | INFO | Follow-up generated with score 4.5
+2026-03-28T04:38:01.146251+0530 | INFO | Answer scored 4.5 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q2
+2026-03-28T04:38:01.148293+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:38:12.801005+0530 | INFO | OPTIONS /api/gesture → 200
+2026-03-28T04:38:12.871913+0530 | INFO | Gesture: N (0.22)
+2026-03-28T04:38:12.872318+0530 | INFO | Gesture: N conf=0.22
+2026-03-28T04:38:12.872775+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:13.087950+0530 | INFO | Gesture: Z (0.22)
+2026-03-28T04:38:13.088321+0530 | INFO | Gesture: Z conf=0.22
+2026-03-28T04:38:13.088955+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:13.594161+0530 | INFO | Gesture: Z (0.20)
+2026-03-28T04:38:13.594570+0530 | INFO | Gesture: Z conf=0.20
+2026-03-28T04:38:13.595022+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:14.120893+0530 | INFO | Gesture: Z (0.19)
+2026-03-28T04:38:14.121373+0530 | INFO | Gesture: Z conf=0.19
+2026-03-28T04:38:14.121827+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:14.622343+0530 | INFO | Gesture: Z (0.18)
+2026-03-28T04:38:14.622739+0530 | INFO | Gesture: Z conf=0.18
+2026-03-28T04:38:14.623179+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:15.137473+0530 | INFO | Gesture: N (0.15)
+2026-03-28T04:38:15.137895+0530 | INFO | Gesture: N conf=0.15
+2026-03-28T04:38:15.138444+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:15.636162+0530 | INFO | Gesture: N (0.18)
+2026-03-28T04:38:15.636553+0530 | INFO | Gesture: N conf=0.18
+2026-03-28T04:38:15.637009+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:16.148739+0530 | INFO | Gesture: N (0.18)
+2026-03-28T04:38:16.149290+0530 | INFO | Gesture: N conf=0.18
+2026-03-28T04:38:16.149747+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:16.650438+0530 | INFO | Gesture: N (0.18)
+2026-03-28T04:38:16.650838+0530 | INFO | Gesture: N conf=0.18
+2026-03-28T04:38:16.651261+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:17.160818+0530 | INFO | Gesture: N (0.19)
+2026-03-28T04:38:17.161382+0530 | INFO | Gesture: N conf=0.19
+2026-03-28T04:38:17.161681+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:17.668758+0530 | INFO | Gesture: Z (0.22)
+2026-03-28T04:38:17.668934+0530 | INFO | Gesture: Z conf=0.22
+2026-03-28T04:38:17.669177+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:18.191107+0530 | INFO | Gesture: Z (0.22)
+2026-03-28T04:38:18.191331+0530 | INFO | Gesture: Z conf=0.22
+2026-03-28T04:38:18.191629+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:18.700375+0530 | INFO | Gesture: Z (0.19)
+2026-03-28T04:38:18.700575+0530 | INFO | Gesture: Z conf=0.19
+2026-03-28T04:38:18.700955+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:19.208609+0530 | INFO | Gesture: Z (0.19)
+2026-03-28T04:38:19.208874+0530 | INFO | Gesture: Z conf=0.19
+2026-03-28T04:38:19.209261+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:19.717527+0530 | INFO | Gesture: N (0.17)
+2026-03-28T04:38:19.717762+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T04:38:19.718085+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:21.560958+0530 | INFO | Gesture: Z (0.17)
+2026-03-28T04:38:21.561154+0530 | INFO | Gesture: Z conf=0.17
+2026-03-28T04:38:21.561447+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:22.092054+0530 | INFO | Gesture: E (0.20)
+2026-03-28T04:38:22.092231+0530 | INFO | Gesture: E conf=0.20
+2026-03-28T04:38:22.092443+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:22.592604+0530 | INFO | Gesture: E (0.19)
+2026-03-28T04:38:22.592781+0530 | INFO | Gesture: E conf=0.19
+2026-03-28T04:38:22.593024+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:38:23.113132+0530 | INFO | Gesture: Z (0.18)
+2026-03-28T04:38:23.113332+0530 | INFO | Gesture: Z conf=0.18
+2026-03-28T04:38:23.113621+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:42:01.076267+0530 | INFO | Ideal answer generated for: How would you specifically modify your Python fron...
+2026-03-28T04:42:01.382361+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:42:01.382537+0530 | INFO | Scored answer: final=4.61 semantic=0.04 claude=0.00
+2026-03-28T04:42:01.996796+0530 | INFO | Question 3 generated for Frontend Engineer
+2026-03-28T04:42:02.008150+0530 | INFO | Answer scored 4.6 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q3
+2026-03-28T04:42:02.009189+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:42:11.724851+0530 | INFO | Ideal answer generated for: Design a high-performance caching mechanism for a ...
+2026-03-28T04:42:12.134251+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:42:12.134473+0530 | INFO | Scored answer: final=4.50 semantic=-0.00 claude=0.00
+2026-03-28T04:42:12.441685+0530 | INFO | Follow-up generated with score 4.5
+2026-03-28T04:42:12.452812+0530 | INFO | Answer scored 4.5 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q4
+2026-03-28T04:42:12.453257+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:43:14.906029+0530 | INFO | Ideal answer generated for: How would you specifically implement cache invalid...
+2026-03-28T04:43:15.315519+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:43:15.315942+0530 | INFO | Scored answer: final=4.29 semantic=-0.07 claude=0.00
+2026-03-28T04:43:15.929929+0530 | INFO | Question 5 generated for Frontend Engineer
+2026-03-28T04:43:15.938254+0530 | INFO | Answer scored 4.3 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q5
+2026-03-28T04:43:15.939516+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:43:28.615132+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T04:43:28.616176+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T04:43:58.204002+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T04:43:58.204612+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T04:43:59.040393+0530 | INFO | Ideal answer generated for: Describe a scenario where you're building a REST A...
+2026-03-28T04:43:59.450360+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:43:59.450898+0530 | INFO | Scored answer: final=4.36 semantic=-0.05 claude=0.00
+2026-03-28T04:43:59.757050+0530 | INFO | Follow-up generated with score 4.4
+2026-03-28T04:43:59.767089+0530 | INFO | Answer scored 4.4 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q6
+2026-03-28T04:43:59.768099+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:44:00.371137+0530 | INFO | Ideal answer generated for: Describe a scenario where you're building a REST A...
+2026-03-28T04:44:00.781210+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:44:00.781715+0530 | INFO | Scored answer: final=4.43 semantic=-0.02 claude=0.00
+2026-03-28T04:44:01.191154+0530 | INFO | Follow-up generated with score 4.4
+2026-03-28T04:44:01.199569+0530 | INFO | Answer scored 4.4 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q6
+2026-03-28T04:44:01.200341+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:44:09.587851+0530 | INFO | Ideal answer generated for: How would you specifically optimize your SQL queri...
+2026-03-28T04:44:09.997084+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:44:09.997374+0530 | INFO | Scored answer: final=4.45 semantic=-0.02 claude=0.00
+2026-03-28T04:44:10.508506+0530 | INFO | Question 7 generated for Frontend Engineer
+2026-03-28T04:44:10.515179+0530 | INFO | Answer scored 4.5 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q7
+2026-03-28T04:44:10.516110+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:45:00.065242+0530 | INFO | Ideal answer generated for: Design a high-performance caching layer using Redi...
+2026-03-28T04:45:00.455414+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:45:00.456242+0530 | INFO | Scored answer: final=4.41 semantic=-0.03 claude=0.00
+2026-03-28T04:45:00.799289+0530 | INFO | Follow-up generated with score 4.4
+2026-03-28T04:45:00.811088+0530 | INFO | Answer scored 4.4 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q8
+2026-03-28T04:45:00.812255+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:45:03.859339+0530 | INFO | Ideal answer generated for: How would you handle cache expiration and ensure d...
+2026-03-28T04:45:04.166929+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:45:04.167433+0530 | INFO | Scored answer: final=4.40 semantic=-0.03 claude=0.00
+2026-03-28T04:45:04.176943+0530 | INFO | Answer scored 4.4 — session df32091a-1c13-4164-85d9-e6d90ed348bf Q8
+2026-03-28T04:45:04.178951+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:45:06.203370+0530 | INFO | OPTIONS /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:06.207221+0530 | INFO | OPTIONS /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:06.222059+0530 | INFO | Report generated for session df32091a-1c13-4164-85d9-e6d90ed348bf
+2026-03-28T04:45:06.223562+0530 | INFO | GET /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:06.231376+0530 | INFO | Report generated for session df32091a-1c13-4164-85d9-e6d90ed348bf
+2026-03-28T04:45:06.232207+0530 | INFO | GET /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:09.394507+0530 | INFO | Words for 'RE': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RESPONSE']
+2026-03-28T04:45:09.395172+0530 | INFO | GET /api/words → 200
+2026-03-28T04:45:50.935383+0530 | INFO | Report generated for session df32091a-1c13-4164-85d9-e6d90ed348bf
+2026-03-28T04:45:50.936553+0530 | INFO | GET /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:50.943458+0530 | INFO | Report generated for session df32091a-1c13-4164-85d9-e6d90ed348bf
+2026-03-28T04:45:50.944209+0530 | INFO | GET /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:52.999151+0530 | INFO | Report generated for session df32091a-1c13-4164-85d9-e6d90ed348bf
+2026-03-28T04:45:53.000118+0530 | INFO | GET /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:53.009428+0530 | INFO | Report generated for session df32091a-1c13-4164-85d9-e6d90ed348bf
+2026-03-28T04:45:53.010453+0530 | INFO | GET /api/report/df32091a-1c13-4164-85d9-e6d90ed348bf → 200
+2026-03-28T04:45:59.568233+0530 | INFO | Words for 'RE': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RESPONSE']
+2026-03-28T04:45:59.568599+0530 | INFO | GET /api/words → 200
+2026-03-28T04:47:28.190072+0530 | INFO | Report generated for session cf21a52c-16c6-4c12-aad7-38e988ef9893
+2026-03-28T04:47:28.191459+0530 | INFO | GET /api/report/cf21a52c-16c6-4c12-aad7-38e988ef9893 → 200
+2026-03-28T04:47:36.397592+0530 | INFO | Words for 'ALGO': ['ALGORITHM']
+2026-03-28T04:47:36.398188+0530 | INFO | GET /api/words → 200
+2026-03-28T04:47:41.833194+0530 | INFO | Question 1 generated for Software Engineer
+2026-03-28T04:47:41.843503+0530 | INFO | Session 56185783-45f7-43a6-b18f-c364496ca01b started — Role: Software Engineer
+2026-03-28T04:47:41.844443+0530 | INFO | POST /api/session/start → 200
+2026-03-28T04:49:05.156323+0530 | INFO | Words for 'ALGO': ['ALGORITHM']
+2026-03-28T04:49:05.156819+0530 | INFO | GET /api/words → 200
+2026-03-28T04:49:46.234953+0530 | INFO | ============================================================
+2026-03-28T04:49:46.235302+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T04:49:46.235499+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T04:49:46.235660+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T04:49:46.235818+0530 | INFO | ============================================================
+2026-03-28T04:50:04.484767+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T04:50:05.118866+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T04:50:05.129094+0530 | INFO | Session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 started — Role: Software Developer
+2026-03-28T04:50:05.130152+0530 | INFO | POST /api/session/start → 200
+2026-03-28T04:50:29.919698+0530 | INFO | OPTIONS /api/transcribe → 200
+2026-03-28T04:50:29.923546+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T04:50:29.924111+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T04:50:29.933785+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T04:50:30.381729+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a Python g...
+2026-03-28T04:50:30.675983+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:50:30.676616+0530 | INFO | Scored answer: final=4.33 semantic=-0.06 claude=0.00
+2026-03-28T04:50:30.932476+0530 | INFO | Follow-up generated with score 4.3
+2026-03-28T04:50:30.943437+0530 | INFO | Answer scored 4.3 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q2
+2026-03-28T04:50:30.944327+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:50:32.755345+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T04:50:32.755920+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T04:50:33.073572+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a Python g...
+2026-03-28T04:50:33.380598+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:50:33.380982+0530 | INFO | Scored answer: final=4.33 semantic=-0.06 claude=0.00
+2026-03-28T04:50:33.688586+0530 | INFO | Follow-up generated with score 4.3
+2026-03-28T04:50:33.696821+0530 | INFO | Answer scored 4.3 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q2
+2026-03-28T04:50:33.698036+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:50:34.506976+0530 | INFO | Ideal answer generated for: Can you provide a specific example of how you woul...
+2026-03-28T04:50:34.906687+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:50:34.907174+0530 | INFO | Scored answer: final=4.25 semantic=-0.08 claude=0.00
+2026-03-28T04:50:35.320571+0530 | INFO | Question 3 generated for Software Developer
+2026-03-28T04:50:35.330445+0530 | INFO | Answer scored 4.3 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q3
+2026-03-28T04:50:35.331301+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:50:49.308794+0530 | INFO | OPTIONS /api/gesture → 200
+2026-03-28T04:50:49.379448+0530 | INFO | Gesture: Z (0.20)
+2026-03-28T04:50:49.379704+0530 | INFO | Gesture: Z conf=0.20
+2026-03-28T04:50:49.380071+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:49.580556+0530 | INFO | Gesture: Z (0.20)
+2026-03-28T04:50:49.580804+0530 | INFO | Gesture: Z conf=0.20
+2026-03-28T04:50:49.581363+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:50.081688+0530 | INFO | Gesture: Z (0.20)
+2026-03-28T04:50:50.081887+0530 | INFO | Gesture: Z conf=0.20
+2026-03-28T04:50:50.082234+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:50.583198+0530 | INFO | Gesture: Z (0.21)
+2026-03-28T04:50:50.583389+0530 | INFO | Gesture: Z conf=0.21
+2026-03-28T04:50:50.583656+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:51.116007+0530 | INFO | Gesture: Z (0.22)
+2026-03-28T04:50:51.116236+0530 | INFO | Gesture: Z conf=0.22
+2026-03-28T04:50:51.116614+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:51.620495+0530 | INFO | Gesture: Z (0.22)
+2026-03-28T04:50:51.620745+0530 | INFO | Gesture: Z conf=0.22
+2026-03-28T04:50:51.621105+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:52.148735+0530 | INFO | Gesture: Z (0.25)
+2026-03-28T04:50:52.149006+0530 | INFO | Gesture: Z conf=0.25
+2026-03-28T04:50:52.149376+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:52.655347+0530 | INFO | Gesture: Z (0.25)
+2026-03-28T04:50:52.655606+0530 | INFO | Gesture: Z conf=0.25
+2026-03-28T04:50:52.655909+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:53.172534+0530 | INFO | Gesture: N (0.17)
+2026-03-28T04:50:53.172729+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T04:50:53.173020+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:53.680031+0530 | INFO | Gesture: N (0.25)
+2026-03-28T04:50:53.680193+0530 | INFO | Gesture: N conf=0.25
+2026-03-28T04:50:53.680405+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:54.189603+0530 | INFO | Gesture: N (0.23)
+2026-03-28T04:50:54.189952+0530 | INFO | Gesture: N conf=0.23
+2026-03-28T04:50:54.190343+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:54.689828+0530 | INFO | Gesture: N (0.23)
+2026-03-28T04:50:54.690124+0530 | INFO | Gesture: N conf=0.23
+2026-03-28T04:50:54.690503+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:55.193636+0530 | INFO | Gesture: N (0.23)
+2026-03-28T04:50:55.193865+0530 | INFO | Gesture: N conf=0.23
+2026-03-28T04:50:55.194141+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:55.705314+0530 | INFO | Gesture: N (0.23)
+2026-03-28T04:50:55.705569+0530 | INFO | Gesture: N conf=0.23
+2026-03-28T04:50:55.705893+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:56.217061+0530 | INFO | Gesture: N (0.23)
+2026-03-28T04:50:56.217423+0530 | INFO | Gesture: N conf=0.23
+2026-03-28T04:50:56.217752+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:56.939113+0530 | INFO | Gesture: E (0.17)
+2026-03-28T04:50:56.939461+0530 | INFO | Gesture: E conf=0.17
+2026-03-28T04:50:56.939904+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:57.454975+0530 | INFO | Gesture: C (0.22)
+2026-03-28T04:50:57.455176+0530 | INFO | Gesture: C conf=0.22
+2026-03-28T04:50:57.455521+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:50:57.962699+0530 | INFO | Gesture: E (0.20)
+2026-03-28T04:50:57.962985+0530 | INFO | Gesture: E conf=0.20
+2026-03-28T04:50:57.963347+0530 | INFO | POST /api/gesture → 200
+2026-03-28T04:51:10.143468+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a Python d...
+2026-03-28T04:51:10.439910+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:51:10.440178+0530 | INFO | Scored answer: final=4.33 semantic=-0.06 claude=0.00
+2026-03-28T04:51:10.829639+0530 | INFO | Follow-up generated with score 4.3
+2026-03-28T04:51:10.837504+0530 | INFO | Answer scored 4.3 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q4
+2026-03-28T04:51:10.838185+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:51:13.112846+0530 | INFO | Ideal answer generated for: How would you handle a situation where the authent...
+2026-03-28T04:51:13.521332+0530 | INFO | Answer evaluated: score=2.0
+2026-03-28T04:51:13.521580+0530 | INFO | Scored answer: final=4.65 semantic=-0.12 claude=0.20
+2026-03-28T04:51:14.442810+0530 | INFO | Question 5 generated for Software Developer
+2026-03-28T04:51:14.453655+0530 | INFO | Answer scored 4.7 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q5
+2026-03-28T04:51:14.455087+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:51:19.000049+0530 | INFO | Ideal answer generated for: Design a Python class to interact with a REST API ...
+2026-03-28T04:51:19.264638+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:51:19.264961+0530 | INFO | Scored answer: final=4.20 semantic=-0.10 claude=0.00
+2026-03-28T04:51:19.575117+0530 | INFO | Follow-up generated with score 4.2
+2026-03-28T04:51:19.582986+0530 | INFO | Answer scored 4.2 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q6
+2026-03-28T04:51:19.583615+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:51:23.577450+0530 | INFO | Ideal answer generated for: How would you modify your class to handle concurre...
+2026-03-28T04:51:23.971867+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:51:23.972138+0530 | INFO | Scored answer: final=4.48 semantic=-0.01 claude=0.00
+2026-03-28T04:51:24.353041+0530 | INFO | Question 7 generated for Software Developer
+2026-03-28T04:51:24.360401+0530 | INFO | Answer scored 4.5 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q7
+2026-03-28T04:51:24.361191+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:51:27.858776+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a transact...
+2026-03-28T04:51:28.164443+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:51:28.164684+0530 | INFO | Scored answer: final=4.52 semantic=0.01 claude=0.00
+2026-03-28T04:51:28.472156+0530 | INFO | Follow-up generated with score 4.5
+2026-03-28T04:51:28.479004+0530 | INFO | Answer scored 4.5 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q8
+2026-03-28T04:51:28.479678+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:51:32.509996+0530 | INFO | Ideal answer generated for: How would you implement locking mechanisms or tran...
+2026-03-28T04:51:32.848377+0530 | INFO | Answer evaluated: score=0
+2026-03-28T04:51:32.848751+0530 | INFO | Scored answer: final=4.63 semantic=0.04 claude=0.00
+2026-03-28T04:51:32.856784+0530 | INFO | Answer scored 4.6 — session 4cf1ae12-133f-4b81-ace5-68c900d00bf3 Q8
+2026-03-28T04:51:32.857435+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T04:51:34.875272+0530 | INFO | OPTIONS /api/report/4cf1ae12-133f-4b81-ace5-68c900d00bf3 → 200
+2026-03-28T04:51:34.876266+0530 | INFO | OPTIONS /api/report/4cf1ae12-133f-4b81-ace5-68c900d00bf3 → 200
+2026-03-28T04:51:34.880620+0530 | INFO | Report generated for session 4cf1ae12-133f-4b81-ace5-68c900d00bf3
+2026-03-28T04:51:34.881086+0530 | INFO | GET /api/report/4cf1ae12-133f-4b81-ace5-68c900d00bf3 → 200
+2026-03-28T04:51:34.888328+0530 | INFO | Report generated for session 4cf1ae12-133f-4b81-ace5-68c900d00bf3
+2026-03-28T04:51:34.888957+0530 | INFO | GET /api/report/4cf1ae12-133f-4b81-ace5-68c900d00bf3 → 200
+2026-03-28T04:53:41.466734+0530 | INFO | Words for 'RE': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RESPONSE']
+2026-03-28T04:53:41.468062+0530 | INFO | GET /api/words → 200
+2026-03-28T04:53:53.080683+0530 | INFO | Gesture: Z (0.17)
+2026-03-28T04:53:53.081244+0530 | INFO | Gesture: Z conf=0.17
+2026-03-28T04:53:53.081800+0530 | INFO | POST /api/gesture → 200
+2026-03-28T06:21:38.795775+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T06:21:39.317081+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T06:21:39.325891+0530 | INFO | Session 024ab65e-781a-4d75-9571-0b8f0b16d8a3 started — Role: Software Developer
+2026-03-28T06:21:39.326879+0530 | INFO | POST /api/session/start → 200
+2026-03-28T06:22:03.997067+0530 | INFO | GET /api/health → 200
+2026-03-28T06:24:35.802110+0530 | INFO | ============================================================
+2026-03-28T06:24:35.802603+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:24:35.803519+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:24:35.803711+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:24:35.804232+0530 | INFO | ============================================================
+2026-03-28T06:24:56.882283+0530 | INFO | ============================================================
+2026-03-28T06:24:56.882745+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:24:56.883179+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:24:56.883538+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:24:56.883844+0530 | INFO | ============================================================
+2026-03-28T06:25:53.244704+0530 | INFO | ============================================================
+2026-03-28T06:25:53.245158+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:25:53.245364+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:25:53.245540+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:25:53.245689+0530 | INFO | ============================================================
+2026-03-28T06:26:56.249082+0530 | INFO | ============================================================
+2026-03-28T06:26:56.249472+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:26:56.249645+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:26:56.249839+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:26:56.250160+0530 | INFO | ============================================================
+2026-03-28T06:27:29.901225+0530 | INFO | ============================================================
+2026-03-28T06:27:29.901576+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:27:29.901733+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:27:29.901864+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:27:29.901993+0530 | INFO | ============================================================
+2026-03-28T06:27:30.762256+0530 | INFO | GET /api/health → 200
+2026-03-28T06:27:35.073231+0530 | INFO | Words for 'PY': ['PYTHON']
+2026-03-28T06:27:35.073729+0530 | INFO | GET /api/words → 200
+2026-03-28T06:28:36.294637+0530 | INFO | ============================================================
+2026-03-28T06:28:36.295030+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:28:36.295263+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:28:36.295475+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:28:36.295676+0530 | INFO | ============================================================
+2026-03-28T06:29:55.949372+0530 | INFO | ============================================================
+2026-03-28T06:29:55.949922+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:29:55.950262+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:29:55.950491+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:29:55.950715+0530 | INFO | ============================================================
+2026-03-28T06:29:57.515646+0530 | INFO | GET /api/health → 200
+2026-03-28T06:30:01.772273+0530 | INFO | Words for 'RE': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RESPONSE']
+2026-03-28T06:30:01.772823+0530 | INFO | GET /api/words → 200
+2026-03-28T06:31:11.182373+0530 | INFO | ============================================================
+2026-03-28T06:31:11.182983+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:31:11.183220+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:31:11.183406+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:31:11.183577+0530 | INFO | ============================================================
+2026-03-28T06:32:15.751090+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T06:32:15.780621+0530 | ERROR | Unhandled: POST /api/session/start — name 'TECHNICAL_KEYWORDS' is not defined
+2026-03-28T06:32:18.104772+0530 | ERROR | Unhandled: POST /api/session/start — name 'TECHNICAL_KEYWORDS' is not defined
+2026-03-28T06:32:49.232348+0530 | INFO | ============================================================
+2026-03-28T06:32:49.232895+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:32:49.233117+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:32:49.233361+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:32:49.233849+0530 | INFO | ============================================================
+2026-03-28T06:33:19.805358+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T06:33:19.829091+0530 | ERROR | Unhandled: POST /api/session/start — name 'TECHNICAL_KEYWORDS' is not defined
+2026-03-28T06:33:30.681994+0530 | ERROR | Unhandled: POST /api/session/start — name 'TECHNICAL_KEYWORDS' is not defined
+2026-03-28T06:34:05.549221+0530 | INFO | ============================================================
+2026-03-28T06:34:05.549708+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:34:05.549953+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:34:05.550170+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:34:05.550406+0530 | INFO | ============================================================
+2026-03-28T06:34:08.356016+0530 | INFO | Question 1 generated for Software Engineer
+2026-03-28T06:34:08.370346+0530 | INFO | Session 22fe0f20-f1e3-4ff7-b923-23a4fe20dfc3 started — Role: Software Engineer
+2026-03-28T06:34:08.371037+0530 | INFO | POST /api/session/start → 200
+2026-03-28T06:34:38.907701+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T06:34:38.919415+0530 | INFO | Session 595e4ff1-5131-4162-8eaf-ae7fb3f88d4d started — Role: Software Developer
+2026-03-28T06:34:38.921529+0530 | INFO | POST /api/session/start → 200
+2026-03-28T06:36:12.298322+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T06:36:12.308158+0530 | INFO | Session 3d3f52fe-a530-4fe1-80c0-7f8762c80e6f started — Role: Software Developer
+2026-03-28T06:36:12.309950+0530 | INFO | POST /api/session/start → 200
+2026-03-28T06:56:09.942972+0530 | INFO | ============================================================
+2026-03-28T06:56:09.943501+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T06:56:09.945114+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T06:56:09.945633+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T06:56:09.945633+0530 | INFO | ============================================================
+2026-03-28T06:58:39.301316+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T06:58:43.114983+0530 | INFO | Question 1 generated for Full Stack Developer
+2026-03-28T06:58:43.493100+0530 | INFO | Session 11945a07-c763-467f-96f7-603b08db694e started — Role: Full Stack Developer
+2026-03-28T06:58:43.515070+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:02:40.406999+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:02:40.452045+0530 | INFO | Session 795f31ff-5e7f-4202-9074-2ad0db48c2d8 started — Role: Software Developer
+2026-03-28T07:02:40.488306+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:04:12.758759+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T07:04:13.920352+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:04:14.130866+0530 | INFO | Session 7d086151-de10-4257-a6c2-6eb3187225c3 started — Role: Software Developer
+2026-03-28T07:04:14.139724+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:10:53.465577+0530 | INFO | ============================================================
+2026-03-28T07:10:53.467602+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:10:53.473218+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:10:53.478974+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:10:53.480493+0530 | INFO | ============================================================
+2026-03-28T07:11:42.829210+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T07:11:48.197999+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:11:48.408988+0530 | INFO | Session 39d0420a-252a-4218-9cb4-67b2490f9574 started — Role: Software Developer
+2026-03-28T07:11:48.433112+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:17:30.359767+0530 | INFO | ============================================================
+2026-03-28T07:17:30.360286+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:17:30.362293+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:17:30.362293+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:17:30.362293+0530 | INFO | ============================================================
+2026-03-28T07:18:00.842922+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T07:18:02.989252+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:18:03.139969+0530 | INFO | Session 6fcff9d8-ea95-4817-8471-b52b404f60fc started — Role: Software Developer
+2026-03-28T07:18:03.148853+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:18:42.046314+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T07:18:57.488432+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T07:18:58.261179+0530 | INFO | Ideal answer generated for: Design a Python class to interact with a REST API ...
+2026-03-28T07:19:00.170642+0530 | INFO | Answer evaluated: score=0
+2026-03-28T07:19:00.172195+0530 | INFO | Scored answer: final=4.39 semantic=-0.04 claude=0.00
+2026-03-28T07:19:00.673287+0530 | INFO | Follow-up generated with score 4.4
+2026-03-28T07:19:00.755946+0530 | INFO | Answer scored 4.4 — session 6fcff9d8-ea95-4817-8471-b52b404f60fc Q2
+2026-03-28T07:19:00.803616+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:19:08.659745+0530 | INFO | OPTIONS /api/gesture → 200
+2026-03-28T07:19:09.139745+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:09.141527+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:09.143603+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:09.353124+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:09.354556+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:09.357094+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:10.084297+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:10.086326+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:10.087864+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:10.385517+0530 | INFO | Gesture: N (0.16)
+2026-03-28T07:19:10.387512+0530 | INFO | Gesture: N conf=0.16
+2026-03-28T07:19:10.389538+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:10.941626+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:10.941626+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:10.943378+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:11.452076+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:11.453085+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:11.455102+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:12.208713+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:12.208713+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:12.208713+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:12.805828+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:12.805828+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:12.806925+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:19:13.267792+0530 | INFO | Gesture: N (0.17)
+2026-03-28T07:19:13.267792+0530 | INFO | Gesture: N conf=0.17
+2026-03-28T07:19:13.267792+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:25:45.768201+0530 | INFO | ============================================================
+2026-03-28T07:25:45.769903+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:25:45.769903+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:25:45.769903+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:25:45.771532+0530 | INFO | ============================================================
+2026-03-28T07:26:17.768173+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:26:17.823938+0530 | INFO | Session 82051cc7-93d6-4ba7-a2aa-b6f8f399508f started — Role: Software Developer
+2026-03-28T07:26:17.830805+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:26:47.838630+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T07:26:48.271413+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a asynchro...
+2026-03-28T07:26:49.127130+0530 | INFO | Answer evaluated: score=0
+2026-03-28T07:26:49.127130+0530 | INFO | Scored answer: final=4.52 semantic=0.01 claude=0.00
+2026-03-28T07:26:49.439751+0530 | INFO | Follow-up generated with score 4.5
+2026-03-28T07:26:49.454217+0530 | INFO | Answer scored 4.5 — session 82051cc7-93d6-4ba7-a2aa-b6f8f399508f Q2
+2026-03-28T07:26:49.460226+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:27:17.493962+0530 | INFO | ============================================================
+2026-03-28T07:27:17.493962+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:27:17.493962+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:27:17.493962+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:27:17.493962+0530 | INFO | ============================================================
+2026-03-28T07:34:02.515210+0530 | INFO | ============================================================
+2026-03-28T07:34:02.519630+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:34:02.531974+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:34:02.533998+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:34:02.538017+0530 | INFO | ============================================================
+2026-03-28T07:36:10.827933+0530 | INFO | ============================================================
+2026-03-28T07:36:10.827933+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:36:10.827933+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:36:10.827933+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:36:10.827933+0530 | INFO | ============================================================
+2026-03-28T07:36:17.193470+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T07:36:18.948113+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:36:18.998188+0530 | INFO | Session 25f7a784-e414-4d91-bca4-a6c915cf48da started — Role: Software Developer
+2026-03-28T07:36:19.013211+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:36:19.276658+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T07:36:19.282905+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T07:36:19.299559+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:36:19.304764+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:36:19.311769+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:36:19.316009+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:39:25.739668+0530 | INFO | ============================================================
+2026-03-28T07:39:25.747914+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:39:25.754646+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:39:25.754646+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:39:25.755692+0530 | INFO | ============================================================
+2026-03-28T07:39:38.482306+0530 | INFO | OPTIONS /api/recruiter/signup → 200
+2026-03-28T07:39:39.189623+0530 | INFO | Session created for recruiter_id=5
+2026-03-28T07:39:39.189623+0530 | INFO | New recruiter: likithvshetty06@gmail.com | Acme
+2026-03-28T07:39:39.195995+0530 | INFO | POST /api/recruiter/signup → 200
+2026-03-28T07:39:40.776679+0530 | ERROR | Welcome email failed for likithvshetty06@gmail.com: The neuralhire.ai domain is not verified. Please, add and verify your domain on https://resend.com/domains
+2026-03-28T07:39:56.254133+0530 | INFO | OPTIONS /api/recruiter/login → 200
+2026-03-28T07:39:56.921897+0530 | INFO | Session created for recruiter_id=5
+2026-03-28T07:39:56.922943+0530 | INFO | Recruiter login: likithvshetty06@gmail.com
+2026-03-28T07:39:56.927307+0530 | INFO | POST /api/recruiter/login → 200
+2026-03-28T07:39:56.969869+0530 | INFO | OPTIONS /api/recruiter/candidates → 200
+2026-03-28T07:39:56.972171+0530 | INFO | OPTIONS /api/recruiter/candidates → 200
+2026-03-28T07:39:56.991614+0530 | INFO | Recruiter likithvshetty06@gmail.com fetched 0 candidates
+2026-03-28T07:39:56.993126+0530 | INFO | GET /api/recruiter/candidates → 200
+2026-03-28T07:39:57.019718+0530 | INFO | Recruiter likithvshetty06@gmail.com fetched 0 candidates
+2026-03-28T07:39:57.021891+0530 | INFO | GET /api/recruiter/candidates → 200
+2026-03-28T07:42:22.871417+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T07:42:24.418274+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:42:24.452924+0530 | INFO | Session 2b2e0a6e-7f21-4355-8921-006df46ee231 started — Role: Software Developer
+2026-03-28T07:42:24.464598+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:42:24.595762+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T07:42:24.598075+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T07:42:24.603328+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:42:24.605425+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:42:24.606669+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:42:24.613114+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:49:58.263862+0530 | INFO | ============================================================
+2026-03-28T07:49:58.275035+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:49:58.286169+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:49:58.291435+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:49:58.298803+0530 | INFO | ============================================================
+2026-03-28T07:51:12.831220+0530 | INFO | Question 1 generated for Machine Learning Engineer
+2026-03-28T07:51:12.878332+0530 | INFO | Session 2ba633e4-1207-45d4-8bb0-81ff53960875 started — Role: Machine Learning Engineer
+2026-03-28T07:51:12.882976+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:51:13.022936+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:51:13.027323+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:51:13.028766+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:51:13.031423+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:52:13.418986+0530 | INFO | OPTIONS /api/transcribe → 200
+2026-03-28T07:52:13.439820+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T07:52:13.454318+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T07:52:13.462192+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T07:52:20.606744+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T07:52:21.172226+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use transfer l...
+2026-03-28T07:52:22.153009+0530 | INFO | Answer evaluated: score=0
+2026-03-28T07:52:22.153516+0530 | INFO | Scored answer: final=5.07 semantic=0.19 claude=0.00
+2026-03-28T07:52:22.458400+0530 | INFO | Follow-up generated with score 5.1
+2026-03-28T07:52:22.509325+0530 | INFO | Answer scored 5.1 — session 2ba633e4-1207-45d4-8bb0-81ff53960875 Q2
+2026-03-28T07:52:22.522876+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:52:22.570821+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:52:22.574974+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:52:28.758462+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T07:52:28.760976+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T07:52:29.337748+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use transfer l...
+2026-03-28T07:52:29.926756+0530 | INFO | Answer evaluated: score=0
+2026-03-28T07:52:29.926756+0530 | INFO | Scored answer: final=4.97 semantic=0.16 claude=0.00
+2026-03-28T07:52:30.338495+0530 | INFO | Follow-up generated with score 5.0
+2026-03-28T07:52:30.345896+0530 | INFO | Answer scored 5.0 — session 2ba633e4-1207-45d4-8bb0-81ff53960875 Q2
+2026-03-28T07:52:30.353761+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:52:30.850334+0530 | INFO | Ideal answer generated for: Can you provide a specific example of how you woul...
+2026-03-28T07:52:31.361835+0530 | INFO | Answer evaluated: score=0
+2026-03-28T07:52:31.362633+0530 | INFO | Scored answer: final=4.64 semantic=0.05 claude=0.00
+2026-03-28T07:52:31.975224+0530 | INFO | Question 3 generated for Machine Learning Engineer
+2026-03-28T07:52:31.984383+0530 | INFO | Answer scored 4.6 — session 2ba633e4-1207-45d4-8bb0-81ff53960875 Q3
+2026-03-28T07:52:31.988417+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T07:52:31.990411+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:52:31.992840+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:52:31.992840+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:52:32.018477+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:52:32.018477+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:53:59.373186+0530 | INFO | OPTIONS /api/gesture → 200
+2026-03-28T07:53:59.644370+0530 | INFO | Gesture: I (0.24)
+2026-03-28T07:53:59.644370+0530 | INFO | Gesture: I conf=0.24
+2026-03-28T07:53:59.647675+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:53:59.839741+0530 | INFO | Gesture: A (0.41)
+2026-03-28T07:53:59.839741+0530 | INFO | Gesture: A conf=0.41
+2026-03-28T07:53:59.841664+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:54:00.361032+0530 | INFO | Gesture: T (0.33)
+2026-03-28T07:54:00.364155+0530 | INFO | Gesture: T conf=0.33
+2026-03-28T07:54:00.365969+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:54:00.966140+0530 | INFO | Gesture: A (0.53)
+2026-03-28T07:54:00.966140+0530 | INFO | Gesture: A conf=0.53
+2026-03-28T07:54:00.971884+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:54:01.418103+0530 | INFO | Gesture: A (0.26)
+2026-03-28T07:54:01.421628+0530 | INFO | Gesture: A conf=0.26
+2026-03-28T07:54:01.421628+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:54:01.982967+0530 | INFO | Gesture: A (0.33)
+2026-03-28T07:54:01.982967+0530 | INFO | Gesture: A conf=0.33
+2026-03-28T07:54:01.983981+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:54:02.473765+0530 | INFO | Gesture: A (0.63)
+2026-03-28T07:54:02.480399+0530 | INFO | Gesture: A conf=0.63
+2026-03-28T07:54:02.480399+0530 | INFO | POST /api/gesture → 200
+2026-03-28T07:54:02.615538+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T07:54:02.632842+0530 | INFO | Words for 'A': ['API', 'AWS', 'AND', 'APPROACH', 'ALGORITHM']
+2026-03-28T07:54:02.642624+0530 | INFO | GET /api/words → 200
+2026-03-28T07:55:16.178671+0530 | INFO | ============================================================
+2026-03-28T07:55:16.180678+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:55:16.181190+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:55:16.181190+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:55:16.182777+0530 | INFO | ============================================================
+2026-03-28T07:55:50.008488+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T07:55:51.501576+0530 | INFO | Question 1 generated for Frontend Engineer
+2026-03-28T07:55:51.532998+0530 | INFO | Session 3195bf62-73dc-4740-af29-b427230dd250 started — Role: Frontend Engineer
+2026-03-28T07:55:51.544080+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:57:17.799970+0530 | INFO | ============================================================
+2026-03-28T07:57:17.799970+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T07:57:17.801977+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T07:57:17.803486+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T07:57:17.803893+0530 | INFO | ============================================================
+2026-03-28T07:57:29.680048+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T07:57:29.703082+0530 | INFO | Session fb8c5d85-be28-4b74-8182-68f2324bf999 started — Role: Software Developer
+2026-03-28T07:57:29.707039+0530 | INFO | POST /api/session/start → 200
+2026-03-28T07:57:29.828941+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:57:29.831785+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:58:59.727145+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T07:59:00.691584+0530 | INFO | Ideal answer generated for: Design a Python class to interact with a REST API ...
+2026-03-28T07:59:01.949860+0530 | INFO | Answer evaluated: score=9.0
+2026-03-28T07:59:01.954895+0530 | INFO | Scored answer: final=8.35 semantic=0.53 claude=0.90
+2026-03-28T07:59:02.437230+0530 | INFO | Follow-up generated with score 8.3
+2026-03-28T07:59:02.462007+0530 | INFO | Answer scored 8.3 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q2
+2026-03-28T07:59:02.473645+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:59:02.554781+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:59:02.558675+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:59:42.933075+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T07:59:42.939550+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T07:59:43.703772+0530 | INFO | Ideal answer generated for: How would you handle potential inconsistencies bet...
+2026-03-28T07:59:44.151350+0530 | INFO | Answer evaluated: score=2
+2026-03-28T07:59:44.152481+0530 | INFO | Scored answer: final=4.67 semantic=0.34 claude=0.20
+2026-03-28T07:59:44.621535+0530 | INFO | Question 3 generated for Software Developer
+2026-03-28T07:59:44.651303+0530 | INFO | Answer scored 4.7 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q3
+2026-03-28T07:59:44.653515+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:59:44.732532+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:59:44.734565+0530 | INFO | POST /api/tts → 503
+2026-03-28T07:59:47.797809+0530 | INFO | Ideal answer generated for: Write a Python function that utilizes the requests...
+2026-03-28T07:59:48.411789+0530 | INFO | Answer evaluated: score=0
+2026-03-28T07:59:48.414384+0530 | INFO | Scored answer: final=3.64 semantic=0.16 claude=0.00
+2026-03-28T07:59:48.716304+0530 | INFO | Follow-up generated with score 3.6
+2026-03-28T07:59:48.733989+0530 | INFO | Answer scored 3.6 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q4
+2026-03-28T07:59:48.742940+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T07:59:48.806066+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T07:59:48.812379+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:00:12.618309+0530 | INFO | Gesture: S (0.17)
+2026-03-28T08:00:12.619835+0530 | INFO | Gesture: S conf=0.17
+2026-03-28T08:00:12.626425+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:12.822003+0530 | INFO | Gesture: J (0.21)
+2026-03-28T08:00:12.822338+0530 | INFO | Gesture: J conf=0.21
+2026-03-28T08:00:12.823461+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:13.447961+0530 | INFO | Gesture: J (0.37)
+2026-03-28T08:00:13.447961+0530 | INFO | Gesture: J conf=0.37
+2026-03-28T08:00:13.449978+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:13.985422+0530 | INFO | Gesture: J (0.44)
+2026-03-28T08:00:13.991801+0530 | INFO | Gesture: J conf=0.44
+2026-03-28T08:00:13.992883+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:14.504862+0530 | INFO | Gesture: J (0.34)
+2026-03-28T08:00:14.509086+0530 | INFO | Gesture: J conf=0.34
+2026-03-28T08:00:14.514890+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:15.172376+0530 | INFO | Gesture: M (0.16)
+2026-03-28T08:00:15.174836+0530 | INFO | Gesture: M conf=0.16
+2026-03-28T08:00:15.176043+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:15.723178+0530 | INFO | Gesture: Z (0.36)
+2026-03-28T08:00:15.725438+0530 | INFO | Gesture: Z conf=0.36
+2026-03-28T08:00:15.727451+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:16.261949+0530 | INFO | Gesture: A (0.37)
+2026-03-28T08:00:16.262957+0530 | INFO | Gesture: A conf=0.37
+2026-03-28T08:00:16.264133+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:16.764789+0530 | INFO | Gesture: A (0.54)
+2026-03-28T08:00:16.764789+0530 | INFO | Gesture: A conf=0.54
+2026-03-28T08:00:16.766282+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:17.347706+0530 | INFO | Gesture: T (0.33)
+2026-03-28T08:00:17.348760+0530 | INFO | Gesture: T conf=0.33
+2026-03-28T08:00:17.349312+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:17.839665+0530 | INFO | Gesture: T (0.35)
+2026-03-28T08:00:17.844449+0530 | INFO | Gesture: T conf=0.35
+2026-03-28T08:00:17.847046+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:18.370802+0530 | INFO | Gesture: B (0.20)
+2026-03-28T08:00:18.371546+0530 | INFO | Gesture: B conf=0.20
+2026-03-28T08:00:18.376034+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:18.894491+0530 | INFO | Gesture: F (0.40)
+2026-03-28T08:00:18.895520+0530 | INFO | Gesture: F conf=0.40
+2026-03-28T08:00:18.897912+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:19.412317+0530 | INFO | Gesture: U (0.27)
+2026-03-28T08:00:19.413336+0530 | INFO | Gesture: U conf=0.27
+2026-03-28T08:00:19.414363+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:19.968372+0530 | INFO | Gesture: V (0.26)
+2026-03-28T08:00:19.969889+0530 | INFO | Gesture: V conf=0.26
+2026-03-28T08:00:19.972731+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:20.493093+0530 | INFO | Gesture: V (0.28)
+2026-03-28T08:00:20.493093+0530 | INFO | Gesture: V conf=0.28
+2026-03-28T08:00:20.495176+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:21.019886+0530 | INFO | Gesture: W (0.28)
+2026-03-28T08:00:21.021870+0530 | INFO | Gesture: W conf=0.28
+2026-03-28T08:00:21.023130+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:21.578794+0530 | INFO | Gesture: V (0.36)
+2026-03-28T08:00:21.580341+0530 | INFO | Gesture: V conf=0.36
+2026-03-28T08:00:21.580847+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:22.080770+0530 | INFO | Gesture: U (0.30)
+2026-03-28T08:00:22.081784+0530 | INFO | Gesture: U conf=0.30
+2026-03-28T08:00:22.083147+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:22.699978+0530 | INFO | Gesture: R (0.23)
+2026-03-28T08:00:22.700985+0530 | INFO | Gesture: R conf=0.23
+2026-03-28T08:00:22.700985+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:23.354217+0530 | INFO | Gesture: R (0.34)
+2026-03-28T08:00:23.354217+0530 | INFO | Gesture: R conf=0.34
+2026-03-28T08:00:23.358872+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:23.871644+0530 | INFO | Gesture: R (0.37)
+2026-03-28T08:00:23.874049+0530 | INFO | Gesture: R conf=0.37
+2026-03-28T08:00:23.876149+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:24.401582+0530 | INFO | Gesture: R (0.27)
+2026-03-28T08:00:24.407537+0530 | INFO | Gesture: R conf=0.27
+2026-03-28T08:00:24.414901+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:24.940791+0530 | INFO | Gesture: R (0.24)
+2026-03-28T08:00:24.944677+0530 | INFO | Gesture: R conf=0.24
+2026-03-28T08:00:24.946904+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:25.432661+0530 | INFO | Gesture: I (0.18)
+2026-03-28T08:00:25.432661+0530 | INFO | Gesture: I conf=0.18
+2026-03-28T08:00:25.441476+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:26.024847+0530 | INFO | Gesture: R (0.29)
+2026-03-28T08:00:26.026860+0530 | INFO | Gesture: R conf=0.29
+2026-03-28T08:00:26.029210+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:26.487718+0530 | INFO | Gesture: R (0.35)
+2026-03-28T08:00:26.489228+0530 | INFO | Gesture: R conf=0.35
+2026-03-28T08:00:26.492012+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:26.999927+0530 | INFO | Gesture: R (0.35)
+2026-03-28T08:00:26.999927+0530 | INFO | Gesture: R conf=0.35
+2026-03-28T08:00:27.005960+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:27.533061+0530 | INFO | Gesture: A (0.17)
+2026-03-28T08:00:27.533061+0530 | INFO | Gesture: A conf=0.17
+2026-03-28T08:00:27.536162+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:28.064386+0530 | INFO | Gesture: M (0.16)
+2026-03-28T08:00:28.064386+0530 | INFO | Gesture: M conf=0.16
+2026-03-28T08:00:28.066457+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:28.630368+0530 | INFO | Gesture: Y (0.17)
+2026-03-28T08:00:28.631394+0530 | INFO | Gesture: Y conf=0.17
+2026-03-28T08:00:28.631394+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:29.131503+0530 | INFO | Gesture: J (0.30)
+2026-03-28T08:00:29.131503+0530 | INFO | Gesture: J conf=0.30
+2026-03-28T08:00:29.133140+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:29.648290+0530 | INFO | Gesture: Y (0.25)
+2026-03-28T08:00:29.648290+0530 | INFO | Gesture: Y conf=0.25
+2026-03-28T08:00:29.651970+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:30.200177+0530 | INFO | Gesture: Y (0.25)
+2026-03-28T08:00:30.205511+0530 | INFO | Gesture: Y conf=0.25
+2026-03-28T08:00:30.213155+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:30.708977+0530 | INFO | Gesture: W (0.43)
+2026-03-28T08:00:30.708977+0530 | INFO | Gesture: W conf=0.43
+2026-03-28T08:00:30.711908+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:31.248315+0530 | INFO | Gesture: E (0.23)
+2026-03-28T08:00:31.249921+0530 | INFO | Gesture: E conf=0.23
+2026-03-28T08:00:31.251098+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:31.728356+0530 | INFO | Gesture: S (0.25)
+2026-03-28T08:00:31.728356+0530 | INFO | Gesture: S conf=0.25
+2026-03-28T08:00:31.728356+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:32.283707+0530 | INFO | Gesture: J (0.53)
+2026-03-28T08:00:32.284222+0530 | INFO | Gesture: J conf=0.53
+2026-03-28T08:00:32.285164+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:32.808619+0530 | INFO | Gesture: J (0.43)
+2026-03-28T08:00:32.813224+0530 | INFO | Gesture: J conf=0.43
+2026-03-28T08:00:32.815271+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:33.369727+0530 | INFO | Gesture: E (0.15)
+2026-03-28T08:00:33.374709+0530 | INFO | Gesture: E conf=0.15
+2026-03-28T08:00:33.377034+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:33.886063+0530 | INFO | Gesture: M (0.26)
+2026-03-28T08:00:33.886063+0530 | INFO | Gesture: M conf=0.26
+2026-03-28T08:00:33.889458+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:34.389535+0530 | INFO | Gesture: del (0.57)
+2026-03-28T08:00:34.391280+0530 | INFO | Gesture: del conf=0.57
+2026-03-28T08:00:34.393116+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:34.932918+0530 | INFO | Gesture: Q (0.45)
+2026-03-28T08:00:34.932918+0530 | INFO | Gesture: Q conf=0.45
+2026-03-28T08:00:34.937104+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:35.444518+0530 | INFO | Gesture: Q (0.42)
+2026-03-28T08:00:35.444518+0530 | INFO | Gesture: Q conf=0.42
+2026-03-28T08:00:35.447852+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:35.988245+0530 | INFO | Gesture: del (0.56)
+2026-03-28T08:00:35.988245+0530 | INFO | Gesture: del conf=0.56
+2026-03-28T08:00:35.991966+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:00:53.434389+0530 | INFO | Ideal answer generated for: Can you provide a specific example of how you woul...
+2026-03-28T08:00:54.047078+0530 | INFO | Answer evaluated: score=0
+2026-03-28T08:00:54.047078+0530 | INFO | Scored answer: final=4.35 semantic=-0.05 claude=0.00
+2026-03-28T08:00:54.558442+0530 | INFO | Question 5 generated for Software Developer
+2026-03-28T08:00:54.575341+0530 | INFO | Answer scored 4.4 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q5
+2026-03-28T08:00:54.576594+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:00:54.640823+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:00:54.644292+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:00:59.889250+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a Python l...
+2026-03-28T08:01:00.395681+0530 | INFO | Answer evaluated: score=0
+2026-03-28T08:01:00.397693+0530 | INFO | Scored answer: final=4.70 semantic=0.07 claude=0.00
+2026-03-28T08:01:00.807610+0530 | INFO | Follow-up generated with score 4.7
+2026-03-28T08:01:00.828588+0530 | INFO | Answer scored 4.7 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q6
+2026-03-28T08:01:00.835327+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:01:00.888907+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:01:00.891012+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:01:10.342117+0530 | INFO | Ideal answer generated for: How would you specifically utilize pandas to ident...
+2026-03-28T08:01:10.942712+0530 | INFO | Answer evaluated: score=0
+2026-03-28T08:01:10.943728+0530 | INFO | Scored answer: final=4.58 semantic=0.03 claude=0.00
+2026-03-28T08:01:11.453802+0530 | INFO | Question 7 generated for Software Developer
+2026-03-28T08:01:11.462117+0530 | INFO | Answer scored 4.6 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q7
+2026-03-28T08:01:11.477896+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:01:11.512304+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:01:11.526152+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:01:22.924886+0530 | INFO | Ideal answer generated for: Describe a scenario where you would use a UNION op...
+2026-03-28T08:01:23.333094+0530 | INFO | Answer evaluated: score=0
+2026-03-28T08:01:23.333094+0530 | INFO | Scored answer: final=4.48 semantic=0.06 claude=0.00
+2026-03-28T08:01:23.742779+0530 | INFO | Follow-up generated with score 4.5
+2026-03-28T08:01:23.754722+0530 | INFO | Answer scored 4.5 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q8
+2026-03-28T08:01:23.756789+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:01:23.782241+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:01:23.782747+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:01:28.438126+0530 | INFO | Ideal answer generated for: Can you provide a revised example that correctly d...
+2026-03-28T08:01:28.782053+0530 | INFO | Answer evaluated: score=2
+2026-03-28T08:01:28.783230+0530 | INFO | Scored answer: final=5.27 semantic=0.09 claude=0.20
+2026-03-28T08:01:28.855965+0530 | INFO | Answer scored 5.3 — session fb8c5d85-be28-4b74-8182-68f2324bf999 Q8
+2026-03-28T08:01:28.860821+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:01:30.948167+0530 | INFO | OPTIONS /api/report/fb8c5d85-be28-4b74-8182-68f2324bf999 → 200
+2026-03-28T08:01:30.951248+0530 | INFO | OPTIONS /api/report/fb8c5d85-be28-4b74-8182-68f2324bf999 → 200
+2026-03-28T08:01:30.973767+0530 | INFO | Report generated for session fb8c5d85-be28-4b74-8182-68f2324bf999
+2026-03-28T08:01:30.980118+0530 | INFO | GET /api/report/fb8c5d85-be28-4b74-8182-68f2324bf999 → 200
+2026-03-28T08:01:30.991223+0530 | INFO | Report generated for session fb8c5d85-be28-4b74-8182-68f2324bf999
+2026-03-28T08:01:30.993621+0530 | INFO | GET /api/report/fb8c5d85-be28-4b74-8182-68f2324bf999 → 200
+2026-03-28T08:14:52.281958+0530 | INFO | ============================================================
+2026-03-28T08:14:52.283063+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T08:14:52.283063+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T08:14:52.285080+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T08:14:52.285080+0530 | INFO | ============================================================
+2026-03-28T08:15:17.023972+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T08:15:19.318091+0530 | INFO | Question 1 generated for Frontend Engineer
+2026-03-28T08:15:19.357187+0530 | INFO | Session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 started — Role: Frontend Engineer
+2026-03-28T08:15:19.364129+0530 | INFO | POST /api/session/start → 200
+2026-03-28T08:15:19.579076+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T08:15:19.582928+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:15:19.586016+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:15:51.897666+0530 | INFO | OPTIONS /api/transcribe → 200
+2026-03-28T08:15:51.929919+0530 | ERROR | ElevenLabs transcription failed: 'ElevenLabs' object has no attribute 'audio'
+2026-03-28T08:15:51.929919+0530 | INFO | POST /api/transcribe → 200
+2026-03-28T08:15:51.944169+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T08:16:01.170265+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T08:16:02.028422+0530 | INFO | Ideal answer generated for: Describe a scenario where you're building a RESTfu...
+2026-03-28T08:16:02.906322+0530 | INFO | Answer evaluated: score=0.5
+2026-03-28T08:16:02.906322+0530 | INFO | Scored answer: final=4.73 semantic=0.03 claude=0.05
+2026-03-28T08:16:03.407774+0530 | INFO | Follow-up generated with score 4.7
+2026-03-28T08:16:03.442084+0530 | INFO | Answer scored 4.7 — session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 Q2
+2026-03-28T08:16:03.452681+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:16:04.024744+0530 | INFO | Ideal answer generated for: Describe a scenario where you're building a RESTfu...
+2026-03-28T08:16:04.540373+0530 | INFO | Answer evaluated: score=0.5
+2026-03-28T08:16:04.541446+0530 | INFO | Scored answer: final=4.67 semantic=0.01 claude=0.05
+2026-03-28T08:16:05.253909+0530 | INFO | Follow-up generated with score 4.7
+2026-03-28T08:16:05.273046+0530 | INFO | Answer scored 4.7 — session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 Q2
+2026-03-28T08:16:05.277832+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:16:05.283372+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:16:05.285532+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:16:05.326460+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:16:05.327869+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:16:22.025247+0530 | INFO | OPTIONS /api/gesture → 200
+2026-03-28T08:16:22.149510+0530 | INFO | Gesture: I (0.44)
+2026-03-28T08:16:22.149510+0530 | INFO | Gesture: I conf=0.44
+2026-03-28T08:16:22.151097+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:22.668871+0530 | INFO | Gesture: I (0.33)
+2026-03-28T08:16:22.668871+0530 | INFO | Gesture: I conf=0.33
+2026-03-28T08:16:22.670035+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:23.571249+0530 | INFO | Gesture: I (0.17)
+2026-03-28T08:16:23.571777+0530 | INFO | Gesture: I conf=0.17
+2026-03-28T08:16:23.572298+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:24.068011+0530 | INFO | Gesture: M (0.22)
+2026-03-28T08:16:24.075755+0530 | INFO | Gesture: M conf=0.22
+2026-03-28T08:16:24.077767+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:24.604370+0530 | INFO | Gesture: Y (0.21)
+2026-03-28T08:16:24.605931+0530 | INFO | Gesture: Y conf=0.21
+2026-03-28T08:16:24.605931+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:25.149379+0530 | INFO | Gesture: J (0.28)
+2026-03-28T08:16:25.149379+0530 | INFO | Gesture: J conf=0.28
+2026-03-28T08:16:25.150438+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:25.669675+0530 | INFO | Gesture: I (0.25)
+2026-03-28T08:16:25.674550+0530 | INFO | Gesture: I conf=0.25
+2026-03-28T08:16:25.676413+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:26.174331+0530 | INFO | Gesture: Y (0.21)
+2026-03-28T08:16:26.176861+0530 | INFO | Gesture: Y conf=0.21
+2026-03-28T08:16:26.204911+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:26.733268+0530 | INFO | Gesture: J (0.31)
+2026-03-28T08:16:26.733877+0530 | INFO | Gesture: J conf=0.31
+2026-03-28T08:16:26.734402+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:27.270903+0530 | INFO | Gesture: J (0.41)
+2026-03-28T08:16:27.272930+0530 | INFO | Gesture: J conf=0.41
+2026-03-28T08:16:27.274499+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:27.781155+0530 | INFO | Gesture: J (0.28)
+2026-03-28T08:16:27.787089+0530 | INFO | Gesture: J conf=0.28
+2026-03-28T08:16:27.788148+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:28.313154+0530 | INFO | Gesture: M (0.66)
+2026-03-28T08:16:28.315622+0530 | INFO | Gesture: M conf=0.66
+2026-03-28T08:16:28.315622+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:28.453760+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T08:16:28.466146+0530 | INFO | Words for 'M': ['MEMORY', 'METHOD', 'MANAGE', 'MONGODB', 'MICROSERVICE']
+2026-03-28T08:16:28.471943+0530 | INFO | GET /api/words → 200
+2026-03-28T08:16:28.875085+0530 | INFO | Gesture: M (0.66)
+2026-03-28T08:16:28.875085+0530 | INFO | Gesture: M conf=0.66
+2026-03-28T08:16:28.884052+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:28.893770+0530 | INFO | Words for 'M': ['MEMORY', 'METHOD', 'MANAGE', 'MONGODB', 'MICROSERVICE']
+2026-03-28T08:16:28.903589+0530 | INFO | GET /api/words → 200
+2026-03-28T08:16:31.429853+0530 | INFO | Gesture: Z (0.20)
+2026-03-28T08:16:31.429853+0530 | INFO | Gesture: Z conf=0.20
+2026-03-28T08:16:31.432358+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:32.018483+0530 | INFO | Gesture: del (0.38)
+2026-03-28T08:16:32.021223+0530 | INFO | Gesture: del conf=0.38
+2026-03-28T08:16:32.021223+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:32.563637+0530 | INFO | Gesture: del (0.37)
+2026-03-28T08:16:32.563637+0530 | INFO | Gesture: del conf=0.37
+2026-03-28T08:16:32.565083+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:33.094103+0530 | INFO | Gesture: del (0.41)
+2026-03-28T08:16:33.095128+0530 | INFO | Gesture: del conf=0.41
+2026-03-28T08:16:33.096176+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:33.606436+0530 | INFO | Gesture: del (0.30)
+2026-03-28T08:16:33.607946+0530 | INFO | Gesture: del conf=0.30
+2026-03-28T08:16:33.607946+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:36.984256+0530 | INFO | Gesture: C (0.42)
+2026-03-28T08:16:36.986268+0530 | INFO | Gesture: C conf=0.42
+2026-03-28T08:16:36.988279+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:37.553300+0530 | INFO | Gesture: del (0.22)
+2026-03-28T08:16:37.558154+0530 | INFO | Gesture: del conf=0.22
+2026-03-28T08:16:37.564297+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:38.053747+0530 | INFO | Gesture: del (0.26)
+2026-03-28T08:16:38.055799+0530 | INFO | Gesture: del conf=0.26
+2026-03-28T08:16:38.058053+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:38.628347+0530 | INFO | Gesture: del (0.28)
+2026-03-28T08:16:38.628347+0530 | INFO | Gesture: del conf=0.28
+2026-03-28T08:16:38.630118+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:39.090978+0530 | INFO | Gesture: del (0.21)
+2026-03-28T08:16:39.090978+0530 | INFO | Gesture: del conf=0.21
+2026-03-28T08:16:39.093501+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:39.648605+0530 | INFO | Gesture: L (0.19)
+2026-03-28T08:16:39.650124+0530 | INFO | Gesture: L conf=0.19
+2026-03-28T08:16:39.652203+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:40.169065+0530 | INFO | Gesture: del (0.26)
+2026-03-28T08:16:40.169065+0530 | INFO | Gesture: del conf=0.26
+2026-03-28T08:16:40.169065+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:40.716194+0530 | INFO | Gesture: del (0.23)
+2026-03-28T08:16:40.716194+0530 | INFO | Gesture: del conf=0.23
+2026-03-28T08:16:40.719102+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:41.250120+0530 | INFO | Gesture: del (0.26)
+2026-03-28T08:16:41.250804+0530 | INFO | Gesture: del conf=0.26
+2026-03-28T08:16:41.251313+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:41.789889+0530 | INFO | Gesture: Z (0.41)
+2026-03-28T08:16:41.789889+0530 | INFO | Gesture: Z conf=0.41
+2026-03-28T08:16:41.794909+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:42.291957+0530 | INFO | Gesture: Z (0.32)
+2026-03-28T08:16:42.292983+0530 | INFO | Gesture: Z conf=0.32
+2026-03-28T08:16:42.296798+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:42.818105+0530 | INFO | Gesture: del (0.27)
+2026-03-28T08:16:42.819701+0530 | INFO | Gesture: del conf=0.27
+2026-03-28T08:16:42.819701+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:43.333257+0530 | INFO | Gesture: del (0.22)
+2026-03-28T08:16:43.335986+0530 | INFO | Gesture: del conf=0.22
+2026-03-28T08:16:43.339923+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:43.888275+0530 | INFO | Gesture: Z (0.29)
+2026-03-28T08:16:43.889300+0530 | INFO | Gesture: Z conf=0.29
+2026-03-28T08:16:43.889300+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:44.387537+0530 | INFO | Gesture: R (0.42)
+2026-03-28T08:16:44.389577+0530 | INFO | Gesture: R conf=0.42
+2026-03-28T08:16:44.390622+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:44.951514+0530 | INFO | Gesture: U (0.29)
+2026-03-28T08:16:44.953551+0530 | INFO | Gesture: U conf=0.29
+2026-03-28T08:16:44.955574+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:45.453209+0530 | INFO | Gesture: U (0.25)
+2026-03-28T08:16:45.457353+0530 | INFO | Gesture: U conf=0.25
+2026-03-28T08:16:45.457842+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:45.939821+0530 | INFO | Gesture: U (0.29)
+2026-03-28T08:16:45.940358+0530 | INFO | Gesture: U conf=0.29
+2026-03-28T08:16:45.940358+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:46.545648+0530 | INFO | Gesture: V (0.50)
+2026-03-28T08:16:46.546662+0530 | INFO | Gesture: V conf=0.50
+2026-03-28T08:16:46.548681+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:47.053263+0530 | INFO | Gesture: U (0.35)
+2026-03-28T08:16:47.054418+0530 | INFO | Gesture: U conf=0.35
+2026-03-28T08:16:47.056631+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:47.595833+0530 | INFO | Gesture: R (0.25)
+2026-03-28T08:16:47.597589+0530 | INFO | Gesture: R conf=0.25
+2026-03-28T08:16:47.606720+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:48.101279+0530 | INFO | Gesture: R (0.23)
+2026-03-28T08:16:48.102372+0530 | INFO | Gesture: R conf=0.23
+2026-03-28T08:16:48.102372+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:48.673774+0530 | INFO | Gesture: R (0.23)
+2026-03-28T08:16:48.678784+0530 | INFO | Gesture: R conf=0.23
+2026-03-28T08:16:48.680461+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:49.205670+0530 | INFO | Gesture: R (0.32)
+2026-03-28T08:16:49.207269+0530 | INFO | Gesture: R conf=0.32
+2026-03-28T08:16:49.211764+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:49.784085+0530 | INFO | Gesture: R (0.31)
+2026-03-28T08:16:49.786106+0530 | INFO | Gesture: R conf=0.31
+2026-03-28T08:16:49.786106+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:50.310012+0530 | INFO | Gesture: R (0.27)
+2026-03-28T08:16:50.312024+0530 | INFO | Gesture: R conf=0.27
+2026-03-28T08:16:50.314718+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:50.819228+0530 | INFO | Gesture: R (0.30)
+2026-03-28T08:16:50.819228+0530 | INFO | Gesture: R conf=0.30
+2026-03-28T08:16:50.821327+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:51.351135+0530 | INFO | Gesture: P (0.24)
+2026-03-28T08:16:51.352166+0530 | INFO | Gesture: P conf=0.24
+2026-03-28T08:16:51.352166+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:51.864784+0530 | INFO | Gesture: Q (0.26)
+2026-03-28T08:16:51.865265+0530 | INFO | Gesture: Q conf=0.26
+2026-03-28T08:16:51.867146+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:52.395234+0530 | INFO | Gesture: space (0.35)
+2026-03-28T08:16:52.404004+0530 | INFO | Gesture: space conf=0.35
+2026-03-28T08:16:52.406149+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:52.937364+0530 | INFO | Gesture: M (0.22)
+2026-03-28T08:16:52.939395+0530 | INFO | Gesture: M conf=0.22
+2026-03-28T08:16:52.939772+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:53.455822+0530 | INFO | Gesture: space (0.27)
+2026-03-28T08:16:53.456445+0530 | INFO | Gesture: space conf=0.27
+2026-03-28T08:16:53.457454+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:54.071688+0530 | INFO | Gesture: space (0.28)
+2026-03-28T08:16:54.071688+0530 | INFO | Gesture: space conf=0.28
+2026-03-28T08:16:54.071688+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:54.580017+0530 | INFO | Gesture: B (0.43)
+2026-03-28T08:16:54.581558+0530 | INFO | Gesture: B conf=0.43
+2026-03-28T08:16:54.594414+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:55.100509+0530 | INFO | Gesture: W (0.38)
+2026-03-28T08:16:55.100509+0530 | INFO | Gesture: W conf=0.38
+2026-03-28T08:16:55.103290+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:16:58.265458+0530 | INFO | Gesture: N (0.12)
+2026-03-28T08:16:58.265966+0530 | INFO | Gesture: N conf=0.12
+2026-03-28T08:16:58.269857+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:07.393249+0530 | INFO | Gesture: Z (0.20)
+2026-03-28T08:17:07.394266+0530 | INFO | Gesture: Z conf=0.20
+2026-03-28T08:17:07.396729+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:07.679808+0530 | INFO | Gesture: E (0.59)
+2026-03-28T08:17:07.681321+0530 | INFO | Gesture: E conf=0.59
+2026-03-28T08:17:07.683320+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:08.153831+0530 | INFO | Gesture: G (0.20)
+2026-03-28T08:17:08.153831+0530 | INFO | Gesture: G conf=0.20
+2026-03-28T08:17:08.166300+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:08.695184+0530 | INFO | Gesture: G (0.65)
+2026-03-28T08:17:08.700351+0530 | INFO | Gesture: G conf=0.65
+2026-03-28T08:17:08.702940+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:08.869287+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T08:17:08.887175+0530 | INFO | Words for 'MG': []
+2026-03-28T08:17:08.889995+0530 | INFO | GET /api/words → 200
+2026-03-28T08:17:09.227260+0530 | INFO | Gesture: G (0.62)
+2026-03-28T08:17:09.230324+0530 | INFO | Gesture: G conf=0.62
+2026-03-28T08:17:09.232055+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:09.233592+0530 | INFO | Words for 'MG': []
+2026-03-28T08:17:09.233592+0530 | INFO | GET /api/words → 200
+2026-03-28T08:17:09.798340+0530 | INFO | Gesture: G (0.49)
+2026-03-28T08:17:09.802655+0530 | INFO | Gesture: G conf=0.49
+2026-03-28T08:17:09.803683+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:10.269732+0530 | INFO | Gesture: E (0.35)
+2026-03-28T08:17:10.271775+0530 | INFO | Gesture: E conf=0.35
+2026-03-28T08:17:10.281541+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:10.922691+0530 | INFO | Gesture: H (0.18)
+2026-03-28T08:17:10.922691+0530 | INFO | Gesture: H conf=0.18
+2026-03-28T08:17:10.922691+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:11.451844+0530 | INFO | Gesture: G (0.26)
+2026-03-28T08:17:11.453961+0530 | INFO | Gesture: G conf=0.26
+2026-03-28T08:17:11.458532+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:12.012453+0530 | INFO | Gesture: X (0.16)
+2026-03-28T08:17:12.017338+0530 | INFO | Gesture: X conf=0.16
+2026-03-28T08:17:12.018401+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:12.439759+0530 | INFO | Gesture: G (0.63)
+2026-03-28T08:17:12.439759+0530 | INFO | Gesture: G conf=0.63
+2026-03-28T08:17:12.441514+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:13.035115+0530 | INFO | Gesture: G (0.59)
+2026-03-28T08:17:13.036182+0530 | INFO | Gesture: G conf=0.59
+2026-03-28T08:17:13.043669+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:13.505533+0530 | INFO | Gesture: G (0.41)
+2026-03-28T08:17:13.508860+0530 | INFO | Gesture: G conf=0.41
+2026-03-28T08:17:13.510073+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:14.046485+0530 | INFO | Gesture: H (0.37)
+2026-03-28T08:17:14.048017+0530 | INFO | Gesture: H conf=0.37
+2026-03-28T08:17:14.052262+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:14.734178+0530 | INFO | Gesture: H (0.34)
+2026-03-28T08:17:14.735190+0530 | INFO | Gesture: H conf=0.34
+2026-03-28T08:17:14.736285+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:15.287269+0530 | INFO | Gesture: H (0.49)
+2026-03-28T08:17:15.287269+0530 | INFO | Gesture: H conf=0.49
+2026-03-28T08:17:15.295799+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:15.769713+0530 | INFO | Gesture: H (0.46)
+2026-03-28T08:17:15.769713+0530 | INFO | Gesture: H conf=0.46
+2026-03-28T08:17:15.769713+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:16.423322+0530 | INFO | Gesture: space (0.59)
+2026-03-28T08:17:16.424472+0530 | INFO | Gesture: space conf=0.59
+2026-03-28T08:17:16.427341+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:16.911766+0530 | INFO | Gesture: G (0.56)
+2026-03-28T08:17:16.915918+0530 | INFO | Gesture: G conf=0.56
+2026-03-28T08:17:16.918447+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:17.489965+0530 | INFO | Gesture: J (0.22)
+2026-03-28T08:17:17.492239+0530 | INFO | Gesture: J conf=0.22
+2026-03-28T08:17:17.493256+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:18.574126+0530 | INFO | Gesture: X (0.27)
+2026-03-28T08:17:18.579900+0530 | INFO | Gesture: X conf=0.27
+2026-03-28T08:17:18.586033+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:20.420639+0530 | INFO | Ideal answer generated for: How would you specifically handle the limit and of...
+2026-03-28T08:17:21.034593+0530 | INFO | Answer evaluated: score=2.0
+2026-03-28T08:17:21.036044+0530 | INFO | Scored answer: final=4.99 semantic=-0.00 claude=0.20
+2026-03-28T08:17:21.849606+0530 | INFO | Question 3 generated for Frontend Engineer
+2026-03-28T08:17:21.872624+0530 | INFO | Answer scored 5.0 — session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 Q3
+2026-03-28T08:17:21.884612+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:17:22.013859+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:17:22.014900+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:17:24.046433+0530 | INFO | Gesture: I (0.18)
+2026-03-28T08:17:24.049023+0530 | INFO | Gesture: I conf=0.18
+2026-03-28T08:17:24.049576+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:17:52.741289+0530 | INFO | OPTIONS /api/session/finish → 200
+2026-03-28T08:17:52.789042+0530 | INFO | Session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 finished early via user request
+2026-03-28T08:17:52.793755+0530 | INFO | POST /api/session/finish → 200
+2026-03-28T08:17:54.382369+0530 | INFO | OPTIONS /api/report/60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 → 200
+2026-03-28T08:17:54.395728+0530 | INFO | OPTIONS /api/report/60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 → 200
+2026-03-28T08:17:54.425549+0530 | INFO | Report generated for session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88
+2026-03-28T08:17:54.431458+0530 | INFO | GET /api/report/60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 → 200
+2026-03-28T08:17:54.443177+0530 | INFO | Report generated for session 60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88
+2026-03-28T08:17:54.447758+0530 | INFO | GET /api/report/60db81cc-ee9a-4eb3-8ae6-fa3ef4cbdd88 → 200
+2026-03-28T08:26:22.363094+0530 | INFO | ============================================================
+2026-03-28T08:26:22.372610+0530 | INFO | NeuralHire OS API v2.0 — ONLINE
+2026-03-28T08:26:22.381102+0530 | INFO | ARIA is ready to conduct interviews
+2026-03-28T08:26:22.381102+0530 | INFO | Swagger: http://localhost:8000/docs
+2026-03-28T08:26:22.381102+0530 | INFO | ============================================================
+2026-03-28T08:26:36.464633+0530 | INFO | OPTIONS /api/session/start → 200
+2026-03-28T08:26:38.038888+0530 | INFO | Question 1 generated for Software Developer
+2026-03-28T08:26:38.071916+0530 | INFO | Session 9c3f757a-4a9e-4374-be75-864257232979 started — Role: Software Developer
+2026-03-28T08:26:38.077407+0530 | INFO | POST /api/session/start → 200
+2026-03-28T08:26:38.234286+0530 | INFO | OPTIONS /api/tts → 200
+2026-03-28T08:26:38.239177+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:26:38.241106+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:26:46.866072+0530 | INFO | OPTIONS /api/integrity/9c3f757a-4a9e-4374-be75-864257232979 → 200
+2026-03-28T08:26:46.898769+0530 | ERROR | Unhandled: POST /api/integrity/9c3f757a-4a9e-4374-be75-864257232979 — unsupported operand type(s) for +=: 'NoneType' and 'int'
+2026-03-28T08:27:31.428902+0530 | INFO | OPTIONS /api/session/answer → 200
+2026-03-28T08:27:41.095098+0530 | INFO | Sentence-BERT model loaded
+2026-03-28T08:27:42.174519+0530 | INFO | Ideal answer generated for: Design a Python class to interact with a REST API ...
+2026-03-28T08:27:43.216215+0530 | INFO | Answer evaluated: score=0.0
+2026-03-28T08:27:43.218233+0530 | INFO | Scored answer: final=5.08 semantic=0.26 claude=0.00
+2026-03-28T08:27:43.825633+0530 | INFO | Follow-up generated with score 5.1
+2026-03-28T08:27:43.839298+0530 | INFO | Answer scored 5.1 — session 9c3f757a-4a9e-4374-be75-864257232979 Q2
+2026-03-28T08:27:43.848976+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:27:43.894513+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:27:43.896020+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:28:06.525687+0530 | INFO | OPTIONS /api/gesture → 200
+2026-03-28T08:28:06.634373+0530 | INFO | Gesture: I (0.22)
+2026-03-28T08:28:06.635834+0530 | INFO | Gesture: I conf=0.22
+2026-03-28T08:28:06.642199+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:07.135166+0530 | INFO | Gesture: I (0.20)
+2026-03-28T08:28:07.135166+0530 | INFO | Gesture: I conf=0.20
+2026-03-28T08:28:07.140897+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:07.644301+0530 | INFO | Gesture: I (0.21)
+2026-03-28T08:28:07.644811+0530 | INFO | Gesture: I conf=0.21
+2026-03-28T08:28:07.648309+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:08.158175+0530 | INFO | Gesture: I (0.21)
+2026-03-28T08:28:08.160206+0530 | INFO | Gesture: I conf=0.21
+2026-03-28T08:28:08.162216+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:08.641758+0530 | INFO | Gesture: I (0.21)
+2026-03-28T08:28:08.642785+0530 | INFO | Gesture: I conf=0.21
+2026-03-28T08:28:08.643411+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:09.172207+0530 | INFO | Gesture: I (0.24)
+2026-03-28T08:28:09.174229+0530 | INFO | Gesture: I conf=0.24
+2026-03-28T08:28:09.174229+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:09.675800+0530 | INFO | Gesture: I (0.23)
+2026-03-28T08:28:09.677817+0530 | INFO | Gesture: I conf=0.23
+2026-03-28T08:28:09.677817+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:10.381363+0530 | INFO | Gesture: U (0.28)
+2026-03-28T08:28:10.383453+0530 | INFO | Gesture: U conf=0.28
+2026-03-28T08:28:10.383453+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:10.884765+0530 | INFO | Gesture: R (0.41)
+2026-03-28T08:28:10.884765+0530 | INFO | Gesture: R conf=0.41
+2026-03-28T08:28:10.886779+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:11.385274+0530 | INFO | Gesture: R (0.52)
+2026-03-28T08:28:11.388055+0530 | INFO | Gesture: R conf=0.52
+2026-03-28T08:28:11.391331+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:11.939532+0530 | INFO | Gesture: R (0.50)
+2026-03-28T08:28:11.942753+0530 | INFO | Gesture: R conf=0.50
+2026-03-28T08:28:11.945969+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:12.491426+0530 | INFO | Gesture: R (0.48)
+2026-03-28T08:28:12.492512+0530 | INFO | Gesture: R conf=0.48
+2026-03-28T08:28:12.494460+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:13.052346+0530 | INFO | Gesture: R (0.55)
+2026-03-28T08:28:13.054524+0530 | INFO | Gesture: R conf=0.55
+2026-03-28T08:28:13.056247+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:13.578297+0530 | INFO | Gesture: R (0.63)
+2026-03-28T08:28:13.578297+0530 | INFO | Gesture: R conf=0.63
+2026-03-28T08:28:13.578297+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:13.774224+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T08:28:13.778041+0530 | INFO | Words for 'R': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RUNTIME']
+2026-03-28T08:28:13.797994+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:14.209149+0530 | INFO | Gesture: R (0.58)
+2026-03-28T08:28:14.211891+0530 | INFO | Gesture: R conf=0.58
+2026-03-28T08:28:14.215344+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:14.217398+0530 | INFO | Words for 'R': ['REST', 'REACT', 'REDIS', 'REDUCE', 'REQUEST', 'RUNTIME']
+2026-03-28T08:28:14.218922+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:14.728666+0530 | INFO | Gesture: R (0.55)
+2026-03-28T08:28:14.730225+0530 | INFO | Gesture: R conf=0.55
+2026-03-28T08:28:14.731240+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:18.999591+0530 | INFO | Gesture: A (0.86)
+2026-03-28T08:28:19.001107+0530 | INFO | Gesture: A conf=0.86
+2026-03-28T08:28:19.007501+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:19.095220+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T08:28:19.100474+0530 | INFO | Words for 'A': ['API', 'AWS', 'AND', 'APPROACH', 'ALGORITHM']
+2026-03-28T08:28:19.100474+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:19.524051+0530 | INFO | Gesture: A (0.85)
+2026-03-28T08:28:19.525248+0530 | INFO | Gesture: A conf=0.85
+2026-03-28T08:28:19.527023+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:19.529536+0530 | INFO | Words for 'A': ['API', 'AWS', 'AND', 'APPROACH', 'ALGORITHM']
+2026-03-28T08:28:19.532165+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:20.046987+0530 | INFO | Gesture: A (0.86)
+2026-03-28T08:28:20.047994+0530 | INFO | Gesture: A conf=0.86
+2026-03-28T08:28:20.049478+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:20.474054+0530 | INFO | Gesture: A (0.86)
+2026-03-28T08:28:20.474054+0530 | INFO | Gesture: A conf=0.86
+2026-03-28T08:28:20.474054+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:31.506853+0530 | INFO | Gesture: C (0.48)
+2026-03-28T08:28:31.506853+0530 | INFO | Gesture: C conf=0.48
+2026-03-28T08:28:31.510666+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:31.969068+0530 | INFO | Gesture: L (0.19)
+2026-03-28T08:28:31.977393+0530 | INFO | Gesture: L conf=0.19
+2026-03-28T08:28:31.983574+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:32.494707+0530 | INFO | Gesture: del (0.25)
+2026-03-28T08:28:32.495313+0530 | INFO | Gesture: del conf=0.25
+2026-03-28T08:28:32.500271+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:33.003201+0530 | INFO | Gesture: del (0.21)
+2026-03-28T08:28:33.004220+0530 | INFO | Gesture: del conf=0.21
+2026-03-28T08:28:33.005586+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:33.551548+0530 | INFO | Gesture: N (0.23)
+2026-03-28T08:28:33.554239+0530 | INFO | Gesture: N conf=0.23
+2026-03-28T08:28:33.561669+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:34.043723+0530 | INFO | Gesture: N (0.20)
+2026-03-28T08:28:34.044035+0530 | INFO | Gesture: N conf=0.20
+2026-03-28T08:28:34.044035+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:34.508644+0530 | INFO | Gesture: N (0.36)
+2026-03-28T08:28:34.509905+0530 | INFO | Gesture: N conf=0.36
+2026-03-28T08:28:34.509905+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:35.127128+0530 | INFO | Gesture: del (0.50)
+2026-03-28T08:28:35.128140+0530 | INFO | Gesture: del conf=0.50
+2026-03-28T08:28:35.128140+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:35.664462+0530 | INFO | Gesture: del (0.33)
+2026-03-28T08:28:35.675863+0530 | INFO | Gesture: del conf=0.33
+2026-03-28T08:28:35.679227+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:36.207945+0530 | INFO | Gesture: del (0.35)
+2026-03-28T08:28:36.209082+0530 | INFO | Gesture: del conf=0.35
+2026-03-28T08:28:36.214757+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:36.658058+0530 | INFO | Gesture: N (0.30)
+2026-03-28T08:28:36.659179+0530 | INFO | Gesture: N conf=0.30
+2026-03-28T08:28:36.660538+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:37.176887+0530 | INFO | Gesture: N (0.31)
+2026-03-28T08:28:37.176887+0530 | INFO | Gesture: N conf=0.31
+2026-03-28T08:28:37.179921+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:37.725950+0530 | INFO | Gesture: N (0.30)
+2026-03-28T08:28:37.729627+0530 | INFO | Gesture: N conf=0.30
+2026-03-28T08:28:37.731595+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:38.205139+0530 | INFO | Gesture: del (0.28)
+2026-03-28T08:28:38.207935+0530 | INFO | Gesture: del conf=0.28
+2026-03-28T08:28:38.214397+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:38.685806+0530 | INFO | Gesture: space (0.40)
+2026-03-28T08:28:38.685806+0530 | INFO | Gesture: space conf=0.40
+2026-03-28T08:28:38.690703+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:39.324834+0530 | INFO | Gesture: Y (0.21)
+2026-03-28T08:28:39.328661+0530 | INFO | Gesture: Y conf=0.21
+2026-03-28T08:28:39.329428+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:39.737441+0530 | INFO | Gesture: M (0.32)
+2026-03-28T08:28:39.738982+0530 | INFO | Gesture: M conf=0.32
+2026-03-28T08:28:39.739706+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:41.119708+0530 | INFO | Gesture: E (0.45)
+2026-03-28T08:28:41.122639+0530 | INFO | Gesture: E conf=0.45
+2026-03-28T08:28:41.130586+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:41.622534+0530 | INFO | Gesture: M (0.79)
+2026-03-28T08:28:41.625064+0530 | INFO | Gesture: M conf=0.79
+2026-03-28T08:28:41.629659+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:41.759493+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T08:28:41.773970+0530 | INFO | Words for 'M': ['MEMORY', 'METHOD', 'MANAGE', 'MONGODB', 'MICROSERVICE']
+2026-03-28T08:28:41.777505+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:42.172320+0530 | INFO | Gesture: E (0.91)
+2026-03-28T08:28:42.173454+0530 | INFO | Gesture: E conf=0.91
+2026-03-28T08:28:42.173454+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:42.174641+0530 | INFO | Words for 'M': ['MEMORY', 'METHOD', 'MANAGE', 'MONGODB', 'MICROSERVICE']
+2026-03-28T08:28:42.176396+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:42.252954+0530 | INFO | OPTIONS /api/words → 200
+2026-03-28T08:28:42.276574+0530 | INFO | Words for 'ME': ['MEMORY', 'METHOD']
+2026-03-28T08:28:42.281532+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:42.603213+0530 | INFO | Words for 'ME': ['MEMORY', 'METHOD']
+2026-03-28T08:28:42.603213+0530 | INFO | GET /api/words → 200
+2026-03-28T08:28:46.930128+0530 | INFO | Gesture: S (0.24)
+2026-03-28T08:28:46.935719+0530 | INFO | Gesture: S conf=0.24
+2026-03-28T08:28:46.937272+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:47.519071+0530 | INFO | Gesture: N (0.27)
+2026-03-28T08:28:47.519071+0530 | INFO | Gesture: N conf=0.27
+2026-03-28T08:28:47.522107+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:47.885970+0530 | INFO | Gesture: L (0.19)
+2026-03-28T08:28:47.887114+0530 | INFO | Gesture: L conf=0.19
+2026-03-28T08:28:47.888588+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:48.396406+0530 | INFO | Gesture: del (0.21)
+2026-03-28T08:28:48.397851+0530 | INFO | Gesture: del conf=0.21
+2026-03-28T08:28:48.397851+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:48.882441+0530 | INFO | Gesture: del (0.15)
+2026-03-28T08:28:48.886328+0530 | INFO | Gesture: del conf=0.15
+2026-03-28T08:28:48.887339+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:49.496696+0530 | INFO | Gesture: C (0.24)
+2026-03-28T08:28:49.501561+0530 | INFO | Gesture: C conf=0.24
+2026-03-28T08:28:49.506600+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:50.018213+0530 | INFO | Gesture: C (0.24)
+2026-03-28T08:28:50.021504+0530 | INFO | Gesture: C conf=0.24
+2026-03-28T08:28:50.025062+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:50.466231+0530 | INFO | Gesture: C (0.20)
+2026-03-28T08:28:50.467156+0530 | INFO | Gesture: C conf=0.20
+2026-03-28T08:28:50.468196+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:51.011744+0530 | INFO | Gesture: C (0.25)
+2026-03-28T08:28:51.013259+0530 | INFO | Gesture: C conf=0.25
+2026-03-28T08:28:51.016872+0530 | INFO | POST /api/gesture → 200
+2026-03-28T08:28:56.857417+0530 | ERROR | Unhandled: POST /api/integrity/9c3f757a-4a9e-4374-be75-864257232979 — unsupported operand type(s) for +=: 'NoneType' and 'int'
+2026-03-28T08:29:04.899171+0530 | INFO | Ideal answer generated for: How would you handle potential errors and exceptio...
+2026-03-28T08:29:05.420624+0530 | INFO | Answer evaluated: score=0
+2026-03-28T08:29:05.420624+0530 | INFO | Scored answer: final=4.36 semantic=-0.05 claude=0.00
+2026-03-28T08:29:06.455976+0530 | INFO | Question 3 generated for Software Developer
+2026-03-28T08:29:06.471867+0530 | INFO | Answer scored 4.4 — session 9c3f757a-4a9e-4374-be75-864257232979 Q3
+2026-03-28T08:29:06.475919+0530 | INFO | POST /api/session/answer → 200
+2026-03-28T08:29:06.553331+0530 | WARNING | ElevenLabs TTS failed: No generate found in _dynamic_imports for module name -> elevenlabs
+2026-03-28T08:29:06.553331+0530 | INFO | POST /api/tts → 503
+2026-03-28T08:29:22.707291+0530 | INFO | OPTIONS /api/session/finish → 200
+2026-03-28T08:29:22.750048+0530 | INFO | Session 9c3f757a-4a9e-4374-be75-864257232979 finished early via user request
+2026-03-28T08:29:22.753966+0530 | INFO | POST /api/session/finish → 200
+2026-03-28T08:29:24.350679+0530 | INFO | OPTIONS /api/report/9c3f757a-4a9e-4374-be75-864257232979 → 200
+2026-03-28T08:29:24.354457+0530 | INFO | OPTIONS /api/report/9c3f757a-4a9e-4374-be75-864257232979 → 200
+2026-03-28T08:29:24.384833+0530 | INFO | Report generated for session 9c3f757a-4a9e-4374-be75-864257232979
+2026-03-28T08:29:24.384833+0530 | INFO | GET /api/report/9c3f757a-4a9e-4374-be75-864257232979 → 200
+2026-03-28T08:29:24.393047+0530 | INFO | Report generated for session 9c3f757a-4a9e-4374-be75-864257232979
+2026-03-28T08:29:24.398765+0530 | INFO | GET /api/report/9c3f757a-4a9e-4374-be75-864257232979 → 200

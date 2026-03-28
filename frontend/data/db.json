@@ -1,0 +1,784 @@
+{
+  "users": [
+    {
+      "id": "user_recruiter_admin",
+      "email": "recruiter@neuralhire.local",
+      "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "role": "recruiter",
+      "name": "NeuralHire Recruiter",
+      "createdAt": "2026-03-27T21:08:00.280Z",
+      "token": "recruiter_a2580ada15eb0cd453d86e39830ccc8514cc434c39f3b9a1"
+    },
+    {
+      "id": "user_34e3f385e5ca",
+      "email": "tarunkumarsv60@gmail.com",
+      "passwordHash": "",
+      "role": "candidate",
+      "name": "jetm",
+      "token": "candidate_c6083b91d2f3ea4f8531a12228207df43a4f41f56f9b50eb",
+      "createdAt": "2026-03-27T21:08:00.323Z"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "candidate_2bd86eeb535c",
+      "userId": "user_34e3f385e5ca",
+      "name": "jetm",
+      "email": "tarunkumarsv60@gmail.com",
+      "candidateImagePath": "C:\\Users\\THARUNKUMAR S V\\OneDrive\\Desktop\\NeuralHire-clean\\NeuralHire\\frontend\\uploads\\image_f21090e70606_advantages-of-organic-farming-1.webp",
+      "resumeArtifactId": "resume_b36cf7ba2507",
+      "resumeText": "DEEPAK GM Machine Learning & Data Science Student  deeeepakgm@gmail.com | +91-9380362266 | Bengaluru, Karnataka |   GitHub   |   LinkedIn PROFESSIONAL SUMMARY  Highly driven Machine Learning & Data Science student with demonstrated expertise in designing, training, and deploying deep learning models for real-world applications. Pro fi cient in Python, PyTorch, and modern data- processing frameworks with a strong track record of developing AI-driven solutions for agriculture and fraud detection. Passionate about translating complex data into actionable insights and building scalable AI systems.  EDUCATION Bachelor of Engineering – Electronics Engineering  JSS Academy of Technical Education, Bengaluru | VTU A ffi liated | Sep 2024 – Oct 2028 Information Science and Engineering student with a strong foundation in core computer subjects.  Minor in Data Science and Machine Learning  Indian Institute of Technology, Mandi   | Jun 2024 – Nov 2025 Specialized coursework: Deep Learning, Machine Learning, Data Analysis & Neural Network Architecture Design  TECHNICAL SKILLS Programming Languages:   Python, Java, C, MATLAB, HTML/CSS, JavaScript  Machine Learning:   PyTorch, TensorFlow/Keras, Pandas, NumPy, Scikit-learn, OpenCV, Matplotlib, Seaborn  Specialized Skills:   Deep Learning Model Development, NLP, Data Analysis, Model Optimization, CNN  Tools & Platforms:   Google Colab, Jupyter Notebook, VS Code, GitHub, Groww (Stock Trading)  PROFESSIONAL EXPERIENCE Business Development Associate(Tech)  Raltix AI Innovation | Bengaluru Jan 2025 – Present Business Development Associate supporting AI, Blockchain, and Cloud Computing solutions through technical coordination and client engagement.  Web Development Intern   ShadowFox   | Remote | Nov 2025 – Dec 2025 Web Development Intern at Shadow Fox, contributing to the design and development of responsive web applications.  PROJECTS AI-Based Multi-Crop Plant Recognition System   | PyTorch, OpenCV, TensorFlow/Keras IIT Mandi Minor Project | Aug 2025 | Project Drive Designed and trained a deep learning CNN to classify crop images into 139 plant species with high accuracy for precision agriculture  Spot the Scam – Job Posting Fraud Detection System   | Scikit-learn, Pandas, NLP Machine Learning Project | Jun 2025 | Project Demo Developed machine learning classi fi er to identify fraudulent job postings, addressing critical security concerns for job seekers  CERTIFICATIONS & ACHIEVEMENTS  Data Analytics Job Simulation – Forage | Certi fi cate IoT-101 Professional Certi fi cation – Infosys Springboard | Certi fi cate  SOFT SKILLS  Problem-solving • Analytical    inking • Technical Documentation • Team Collaboration • Time Management • Continuous Learning",
+      "atsScore": 7,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "createdAt": "2026-03-27T21:08:30.284Z"
+    },
+    {
+      "id": "candidate_80970c177089",
+      "userId": "user_34e3f385e5ca",
+      "name": "jetm",
+      "email": "tarunkumarsv60@gmail.com",
+      "candidateImagePath": "C:\\Users\\THARUNKUMAR S V\\OneDrive\\Desktop\\NeuralHire-clean\\NeuralHire\\frontend\\uploads\\image_e5e9a4c4ec3d_Gemini_Generated_Image_anuqeganuqeganuq.png",
+      "resumeArtifactId": "resume_d2667a6474e6",
+      "resumeText": "DEEPAK GM Machine Learning & Data Science Student  deeeepakgm@gmail.com | +91-9380362266 | Bengaluru, Karnataka |   GitHub   |   LinkedIn PROFESSIONAL SUMMARY  Highly driven Machine Learning & Data Science student with demonstrated expertise in designing, training, and deploying deep learning models for real-world applications. Pro fi cient in Python, PyTorch, and modern data- processing frameworks with a strong track record of developing AI-driven solutions for agriculture and fraud detection. Passionate about translating complex data into actionable insights and building scalable AI systems.  EDUCATION Bachelor of Engineering – Electronics Engineering  JSS Academy of Technical Education, Bengaluru | VTU A ffi liated | Sep 2024 – Oct 2028 Information Science and Engineering student with a strong foundation in core computer subjects.  Minor in Data Science and Machine Learning  Indian Institute of Technology, Mandi   | Jun 2024 – Nov 2025 Specialized coursework: Deep Learning, Machine Learning, Data Analysis & Neural Network Architecture Design  TECHNICAL SKILLS Programming Languages:   Python, Java, C, MATLAB, HTML/CSS, JavaScript  Machine Learning:   PyTorch, TensorFlow/Keras, Pandas, NumPy, Scikit-learn, OpenCV, Matplotlib, Seaborn  Specialized Skills:   Deep Learning Model Development, NLP, Data Analysis, Model Optimization, CNN  Tools & Platforms:   Google Colab, Jupyter Notebook, VS Code, GitHub, Groww (Stock Trading)  PROFESSIONAL EXPERIENCE Business Development Associate(Tech)  Raltix AI Innovation | Bengaluru Jan 2025 – Present Business Development Associate supporting AI, Blockchain, and Cloud Computing solutions through technical coordination and client engagement.  Web Development Intern   ShadowFox   | Remote | Nov 2025 – Dec 2025 Web Development Intern at Shadow Fox, contributing to the design and development of responsive web applications.  PROJECTS AI-Based Multi-Crop Plant Recognition System   | PyTorch, OpenCV, TensorFlow/Keras IIT Mandi Minor Project | Aug 2025 | Project Drive Designed and trained a deep learning CNN to classify crop images into 139 plant species with high accuracy for precision agriculture  Spot the Scam – Job Posting Fraud Detection System   | Scikit-learn, Pandas, NLP Machine Learning Project | Jun 2025 | Project Demo Developed machine learning classi fi er to identify fraudulent job postings, addressing critical security concerns for job seekers  CERTIFICATIONS & ACHIEVEMENTS  Data Analytics Job Simulation – Forage | Certi fi cate IoT-101 Professional Certi fi cation – Infosys Springboard | Certi fi cate  SOFT SKILLS  Problem-solving • Analytical    inking • Technical Documentation • Team Collaboration • Time Management • Continuous Learning",
+      "atsScore": 7,
+      "matchedKeywords": [
+        "AI"
+      ],
+      "createdAt": "2026-03-27T21:10:39.424Z"
+    }
+  ],
+  "job_roles": [
+    {
+      "id": "job_role_frontend_ai",
+      "title": "Senior React Developer",
+      "description": "Senior React Developer with experience in AI integration, Tailwind CSS, and state management.",
+      "requiredSkills": [
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "AI",
+        "State Management",
+        "Testing"
+      ],
+      "idealAnswers": [],
+      "createdAt": "2026-03-27T21:08:00.280Z"
+    }
+  ],
+  "interview_sessions": [
+    {
+      "id": "session_8e93a704f92c",
+      "candidateId": "candidate_2bd86eeb535c",
+      "candidateToken": "session_f3e79cc2af03c88748f3e1e795e4c7da1b1f9bc6815dbeaa",
+      "jobRoleId": "job_role_frontend_ai",
+      "status": "active",
+      "currentQuestionNumber": 6,
+      "totalQuestions": 6,
+      "createdAt": "2026-03-27T21:08:30.295Z"
+    },
+    {
+      "id": "session_1c51b98f1650",
+      "candidateId": "candidate_80970c177089",
+      "candidateToken": "session_2a5555526cbbaa0a1b40983a549237f06a22b5b7d9e760e0",
+      "jobRoleId": "job_role_frontend_ai",
+      "status": "completed",
+      "currentQuestionNumber": 6,
+      "totalQuestions": 6,
+      "createdAt": "2026-03-27T21:10:39.434Z",
+      "completedAt": "2026-03-27T21:11:46.781Z"
+    }
+  ],
+  "interview_questions": [
+    {
+      "id": "question_447648529652",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 1,
+      "prompt": "Tell me about a project where you had to make a difficult technical trade-off.",
+      "idealAnswer": "A strong answer explains the context, alternatives, trade-offs, final decision, measurable impact, and lessons learned.",
+      "category": "problem_solving"
+    },
+    {
+      "id": "question_57fca19d41a7",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 2,
+      "prompt": "How do you design a frontend system that stays maintainable as product requirements evolve?",
+      "idealAnswer": "A strong answer covers modular architecture, state boundaries, API contracts, testing, and observability for regressions.",
+      "category": "system_design"
+    },
+    {
+      "id": "question_6c9977415033",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 3,
+      "prompt": "How do you communicate technical risk to non-technical stakeholders during delivery pressure?",
+      "idealAnswer": "A strong answer explains translating risk into business impact, options, trade-offs, and a recommendation with timelines.",
+      "category": "communication"
+    },
+    {
+      "id": "question_2445554066ce",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 4,
+      "prompt": "What does high-quality code mean to you in a collaborative engineering team?",
+      "idealAnswer": "A strong answer mentions readability, correctness, testing, reviews, observability, and maintainability over cleverness.",
+      "category": "code_quality"
+    },
+    {
+      "id": "question_0e130ce39f32",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 5,
+      "prompt": "How would you improve latency in a system with both UI and ML inference in the request path?",
+      "idealAnswer": "A strong answer discusses profiling, batching, async boundaries, caching, graceful degradation, and clear SLOs.",
+      "category": "technical_depth"
+    },
+    {
+      "id": "question_d81c7ad61cb9",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 6,
+      "prompt": "Describe a time you had to learn a new tool or domain quickly to keep a project moving.",
+      "idealAnswer": "A strong answer covers fast learning, experimentation, validation, seeking help efficiently, and applying the new knowledge.",
+      "category": "adaptability"
+    },
+    {
+      "id": "question_5c3ad011300a",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 1,
+      "prompt": "Tell me about a project where you had to make a difficult technical trade-off.",
+      "idealAnswer": "A strong answer explains the context, alternatives, trade-offs, final decision, measurable impact, and lessons learned.",
+      "category": "problem_solving"
+    },
+    {
+      "id": "question_3d7cc852fa27",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 2,
+      "prompt": "How do you design a frontend system that stays maintainable as product requirements evolve?",
+      "idealAnswer": "A strong answer covers modular architecture, state boundaries, API contracts, testing, and observability for regressions.",
+      "category": "system_design"
+    },
+    {
+      "id": "question_ced2f00b2aea",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 3,
+      "prompt": "How do you communicate technical risk to non-technical stakeholders during delivery pressure?",
+      "idealAnswer": "A strong answer explains translating risk into business impact, options, trade-offs, and a recommendation with timelines.",
+      "category": "communication"
+    },
+    {
+      "id": "question_1fb3c2d4a5b1",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 4,
+      "prompt": "What does high-quality code mean to you in a collaborative engineering team?",
+      "idealAnswer": "A strong answer mentions readability, correctness, testing, reviews, observability, and maintainability over cleverness.",
+      "category": "code_quality"
+    },
+    {
+      "id": "question_fd48eafade1d",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 5,
+      "prompt": "How would you improve latency in a system with both UI and ML inference in the request path?",
+      "idealAnswer": "A strong answer discusses profiling, batching, async boundaries, caching, graceful degradation, and clear SLOs.",
+      "category": "technical_depth"
+    },
+    {
+      "id": "question_e1981df307f2",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 6,
+      "prompt": "Describe a time you had to learn a new tool or domain quickly to keep a project moving.",
+      "idealAnswer": "A strong answer covers fast learning, experimentation, validation, seeking help efficiently, and applying the new knowledge.",
+      "category": "adaptability"
+    }
+  ],
+  "interview_answers": [
+    {
+      "id": "answer_13a49281f127",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 1,
+      "answer": "i",
+      "transcript": "i",
+      "inputMode": "sign",
+      "artifactIds": [],
+      "scoreId": "score_8f4052af7cff",
+      "createdAt": "2026-03-27T21:09:04.161Z"
+    },
+    {
+      "id": "answer_aed94dc3a12a",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 2,
+      "answer": "A",
+      "transcript": "A",
+      "inputMode": "sign",
+      "artifactIds": [],
+      "scoreId": "score_241c228e4f94",
+      "createdAt": "2026-03-27T21:10:16.517Z"
+    },
+    {
+      "id": "answer_26b15eb909b7",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 3,
+      "answer": "er",
+      "transcript": "er",
+      "inputMode": "sign",
+      "artifactIds": [],
+      "scoreId": "score_9a499a069b9e",
+      "createdAt": "2026-03-27T21:10:21.298Z"
+    },
+    {
+      "id": "answer_0fe64c958b3b",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 4,
+      "answer": "qwerth",
+      "transcript": "qwerth",
+      "inputMode": "sign",
+      "artifactIds": [],
+      "scoreId": "score_8f80cd1fddf3",
+      "createdAt": "2026-03-27T21:10:23.551Z"
+    },
+    {
+      "id": "answer_f5b2cc8c4ec5",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 5,
+      "answer": "qwerty",
+      "transcript": "qwerty",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_b5d4e8d24a4c",
+      "createdAt": "2026-03-27T21:10:27.690Z"
+    },
+    {
+      "id": "answer_fac3cd6e1b82",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 1,
+      "answer": "Audio response captured from answer.webm.",
+      "transcript": "Audio response captured from answer.webm.",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_3843c4a2448e",
+      "createdAt": "2026-03-27T21:11:23.341Z"
+    },
+    {
+      "id": "answer_a1b798d326e2",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 2,
+      "answer": "uhiuh",
+      "transcript": "uhiuh",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_74a6a4021fe2",
+      "createdAt": "2026-03-27T21:11:29.534Z"
+    },
+    {
+      "id": "answer_ad789693319b",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 3,
+      "answer": "ytuijk",
+      "transcript": "ytuijk",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_80a24ebe6836",
+      "createdAt": "2026-03-27T21:11:35.539Z"
+    },
+    {
+      "id": "answer_c34634ccbdd6",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 4,
+      "answer": "qwert",
+      "transcript": "qwert",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_af33c568656f",
+      "createdAt": "2026-03-27T21:11:37.608Z"
+    },
+    {
+      "id": "answer_2684b83ed7b9",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 5,
+      "answer": "werty",
+      "transcript": "werty",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_9608e6ecbcca",
+      "createdAt": "2026-03-27T21:11:41.015Z"
+    },
+    {
+      "id": "answer_66125d61bb14",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 6,
+      "answer": "234re5r6t7y",
+      "transcript": "234re5r6t7y",
+      "inputMode": "text",
+      "artifactIds": [],
+      "scoreId": "score_98035e773224",
+      "createdAt": "2026-03-27T21:11:46.781Z"
+    }
+  ],
+  "session_events": [
+    {
+      "id": "event_02255f9d5b19",
+      "sessionId": "session_8e93a704f92c",
+      "type": "session_started",
+      "detail": "Interview session created.",
+      "createdAt": "2026-03-27T21:08:30.295Z"
+    },
+    {
+      "id": "event_ed7ca49808bc",
+      "sessionId": "session_8e93a704f92c",
+      "type": "device_check",
+      "detail": "Camera and microphone access granted.",
+      "createdAt": "2026-03-27T21:08:36.807Z"
+    },
+    {
+      "id": "event_5a458b2fb966",
+      "sessionId": "session_8e93a704f92c",
+      "type": "answer_submitted",
+      "detail": "Question 1 answered via sign.",
+      "payload": {
+        "questionNumber": 1,
+        "inputMode": "sign"
+      },
+      "createdAt": "2026-03-27T21:09:04.161Z"
+    },
+    {
+      "id": "event_e5265cfa8558",
+      "sessionId": "session_8e93a704f92c",
+      "type": "answer_submitted",
+      "detail": "Question 2 answered via sign.",
+      "payload": {
+        "questionNumber": 2,
+        "inputMode": "sign"
+      },
+      "createdAt": "2026-03-27T21:10:16.517Z"
+    },
+    {
+      "id": "event_20f30561c746",
+      "sessionId": "session_8e93a704f92c",
+      "type": "answer_submitted",
+      "detail": "Question 3 answered via sign.",
+      "payload": {
+        "questionNumber": 3,
+        "inputMode": "sign"
+      },
+      "createdAt": "2026-03-27T21:10:21.298Z"
+    },
+    {
+      "id": "event_9f26790d91eb",
+      "sessionId": "session_8e93a704f92c",
+      "type": "answer_submitted",
+      "detail": "Question 4 answered via sign.",
+      "payload": {
+        "questionNumber": 4,
+        "inputMode": "sign"
+      },
+      "createdAt": "2026-03-27T21:10:23.551Z"
+    },
+    {
+      "id": "event_a7e48694f9df",
+      "sessionId": "session_8e93a704f92c",
+      "type": "answer_submitted",
+      "detail": "Question 5 answered via text.",
+      "payload": {
+        "questionNumber": 5,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:10:27.690Z"
+    },
+    {
+      "id": "event_ebdee85394c0",
+      "sessionId": "session_1c51b98f1650",
+      "type": "session_started",
+      "detail": "Interview session created.",
+      "createdAt": "2026-03-27T21:10:39.434Z"
+    },
+    {
+      "id": "event_7bc09570ba93",
+      "sessionId": "session_1c51b98f1650",
+      "type": "device_check",
+      "detail": "Camera and microphone access granted.",
+      "createdAt": "2026-03-27T21:10:52.124Z"
+    },
+    {
+      "id": "event_8a3155d70207",
+      "sessionId": "session_1c51b98f1650",
+      "type": "answer_submitted",
+      "detail": "Question 1 answered via text.",
+      "payload": {
+        "questionNumber": 1,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:11:23.341Z"
+    },
+    {
+      "id": "event_719aa6399851",
+      "sessionId": "session_1c51b98f1650",
+      "type": "answer_submitted",
+      "detail": "Question 2 answered via text.",
+      "payload": {
+        "questionNumber": 2,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:11:29.534Z"
+    },
+    {
+      "id": "event_fb60c791b378",
+      "sessionId": "session_1c51b98f1650",
+      "type": "answer_submitted",
+      "detail": "Question 3 answered via text.",
+      "payload": {
+        "questionNumber": 3,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:11:35.539Z"
+    },
+    {
+      "id": "event_2ca83f64504c",
+      "sessionId": "session_1c51b98f1650",
+      "type": "answer_submitted",
+      "detail": "Question 4 answered via text.",
+      "payload": {
+        "questionNumber": 4,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:11:37.608Z"
+    },
+    {
+      "id": "event_27d3bb74e036",
+      "sessionId": "session_1c51b98f1650",
+      "type": "answer_submitted",
+      "detail": "Question 5 answered via text.",
+      "payload": {
+        "questionNumber": 5,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:11:41.015Z"
+    },
+    {
+      "id": "event_83b82fa467e9",
+      "sessionId": "session_1c51b98f1650",
+      "type": "answer_submitted",
+      "detail": "Question 6 answered via text.",
+      "payload": {
+        "questionNumber": 6,
+        "inputMode": "text"
+      },
+      "createdAt": "2026-03-27T21:11:46.781Z"
+    }
+  ],
+  "session_scores": [
+    {
+      "id": "score_8f4052af7cff",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 1,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 94,
+      "overallScore": 50,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 5,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:09:04.161Z"
+    },
+    {
+      "id": "score_241c228e4f94",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 2,
+      "semanticScore": 7,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 91,
+      "overallScore": 53,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 5,
+        "communication": 5,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:10:16.517Z"
+    },
+    {
+      "id": "score_9a499a069b9e",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 3,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 88,
+      "overallScore": 49,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:10:21.298Z"
+    },
+    {
+      "id": "score_8f80cd1fddf3",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 4,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 85,
+      "overallScore": 49,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:10:23.551Z"
+    },
+    {
+      "id": "score_b5d4e8d24a4c",
+      "sessionId": "session_8e93a704f92c",
+      "questionNumber": 5,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 82,
+      "overallScore": 49,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:10:27.690Z"
+    },
+    {
+      "id": "score_3843c4a2448e",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 1,
+      "semanticScore": 6,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 94,
+      "overallScore": 53,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 5,
+        "communication": 5,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:11:23.341Z"
+    },
+    {
+      "id": "score_74a6a4021fe2",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 2,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 91,
+      "overallScore": 50,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 5,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:11:29.534Z"
+    },
+    {
+      "id": "score_80a24ebe6836",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 3,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 88,
+      "overallScore": 49,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:11:35.539Z"
+    },
+    {
+      "id": "score_af33c568656f",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 4,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 85,
+      "overallScore": 49,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:11:37.608Z"
+    },
+    {
+      "id": "score_9608e6ecbcca",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 5,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 82,
+      "overallScore": 49,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 7
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:11:41.015Z"
+    },
+    {
+      "id": "score_98035e773224",
+      "sessionId": "session_1c51b98f1650",
+      "questionNumber": 6,
+      "semanticScore": 0,
+      "hesitationScore": 0,
+      "confidenceScore": 85,
+      "integrityScore": 79,
+      "overallScore": 48,
+      "scores": {
+        "problem_solving": 5,
+        "system_design": 4,
+        "communication": 4,
+        "code_quality": 1,
+        "technical_depth": 5,
+        "adaptability": 6
+      },
+      "modelVersions": {
+        "semantic": "semantic-heuristic-v1",
+        "speech": "speech-heuristic-v1",
+        "integrity": "integrity-heuristic-v1"
+      },
+      "createdAt": "2026-03-27T21:11:46.781Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "report_73d8a7075182",
+      "sessionId": "session_1c51b98f1650",
+      "candidateId": "candidate_80970c177089",
+      "overallScore": 50,
+      "recommendation": "MAYBE",
+      "summary": "jetm showed partial alignment, with enough signal to justify recruiter review.",
+      "strengths": [
+        "Resume alignment",
+        "Participation"
+      ],
+      "weaknesses": [
+        "Answer depth",
+        "Confidence consistency"
+      ],
+      "createdAt": "2026-03-27T21:11:46.792Z"
+    }
+  ],
+  "report_notes": [],
+  "artifacts": [
+    {
+      "id": "resume_b36cf7ba2507",
+      "type": "resume",
+      "filename": "Deepak_GM_New_Resume.pdf",
+      "mimeType": "application/pdf",
+      "path": "C:\\Users\\THARUNKUMAR S V\\OneDrive\\Desktop\\NeuralHire-clean\\NeuralHire\\frontend\\uploads\\resume_b36cf7ba2507_Deepak_GM_New_Resume.pdf",
+      "createdAt": "2026-03-27T21:08:30.237Z"
+    },
+    {
+      "id": "image_f21090e70606",
+      "type": "image",
+      "filename": "advantages-of-organic-farming-1.webp",
+      "mimeType": "image/webp",
+      "path": "C:\\Users\\THARUNKUMAR S V\\OneDrive\\Desktop\\NeuralHire-clean\\NeuralHire\\frontend\\uploads\\image_f21090e70606_advantages-of-organic-farming-1.webp",
+      "createdAt": "2026-03-27T21:08:30.245Z"
+    },
+    {
+      "id": "resume_d2667a6474e6",
+      "type": "resume",
+      "filename": "Deepak_GM_New_Resume.pdf",
+      "mimeType": "application/pdf",
+      "path": "C:\\Users\\THARUNKUMAR S V\\OneDrive\\Desktop\\NeuralHire-clean\\NeuralHire\\frontend\\uploads\\resume_d2667a6474e6_Deepak_GM_New_Resume.pdf",
+      "createdAt": "2026-03-27T21:10:39.400Z"
+    },
+    {
+      "id": "image_e5e9a4c4ec3d",
+      "type": "image",
+      "filename": "Gemini_Generated_Image_anuqeganuqeganuq.png",
+      "mimeType": "image/png",
+      "path": "C:\\Users\\THARUNKUMAR S V\\OneDrive\\Desktop\\NeuralHire-clean\\NeuralHire\\frontend\\uploads\\image_e5e9a4c4ec3d_Gemini_Generated_Image_anuqeganuqeganuq.png",
+      "createdAt": "2026-03-27T21:10:39.412Z"
+    }
+  ]
+}

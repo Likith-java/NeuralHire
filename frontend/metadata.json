@@ -1,0 +1,5 @@
+{
+  "name": "NeuralHire OS",
+  "description": "A sci-fi dark-themed AI interviewer platform for high-stakes evaluations.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
