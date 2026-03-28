@@ -1,0 +1,47 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large ML model files (>100MB)
+*.pkl
+*.h5
+*.keras
+backend/ml_models/isl_lstm/models/gesture_clf.pkl
+backend/ml_models/gesture_classifier/data/landmarks.csv
+backend/ml_models/gesture_classifier/data/landmarks_normalized.csv
+backend/ml_models/gesture_classifier/gesture_clf.pkl
+
+# Data files
+*.npy
+*.csv
+data/
+
+# Logs
+logs/
+*.log
+
+# Uploads
+uploads/
