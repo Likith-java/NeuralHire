@@ -67,14 +67,6 @@ export default function App() {
                 <Route path="/recruiter/login" element={<RecruiterLogin />} />
                 <Route path="/recruiter/signup" element={<RecruiterSignup />} />
                 <Route path="/recruiter/forgot-password" element={<RecruiterForgotPassword />} />
-                <Route
-                  path="/dashboard"
-                  element={
-                    <RequireRecruiterAuth>
-                      <RecruiterDashboard />
-                    </RequireRecruiterAuth>
-                  }
-                />
               </Routes>
             </main>
 

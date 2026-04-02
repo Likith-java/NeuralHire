@@ -119,6 +119,7 @@ const interviewService = {
       difficulty: params.difficulty || 'deep_dive',
       input_mode: params.inputMode || 'text',
       candidate_name: params.candidateName,
+      recruiter_id: params.recruiterId,
     });
     return response.data;
   },

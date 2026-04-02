@@ -29,17 +29,21 @@ export default function SignIn() {
             showToast('Please enter your name and email.', 'error');
             return;
         }
-        
+
         setIsSubmitting(true);
         try {
             const skills = requiredSkills.split(',').map(s => s.trim()).filter(s => s);
-            
+            const recruiterStr = localStorage.getItem('nh_recruiter');
+            const recruiter = recruiterStr ? JSON.parse(recruiterStr) : null;
+            const recruiterId = recruiter?.id;
+
             const response = await interviewService.startSession({
                 jobRole,
                 requiredSkills: skills,
                 difficulty: 'deep_dive',
                 inputMode: 'text',
                 candidateName: name,
+                recruiterId,
             });
 
             localStorage.setItem('neural_role', 'candidate');
@@ -63,14 +67,14 @@ export default function SignIn() {
             showToast('Please enter email and password.', 'error');
             return;
         }
-        
+
         setIsSubmitting(true);
         try {
             const response = await interviewService.loginRecruiter({ email, password });
             localStorage.setItem('neural_role', 'recruiter');
-            localStorage.setItem('neural_recruiter_token', response.session_token);
+            localStorage.setItem('nh_recruiter_token', response.session_token);
             localStorage.setItem('neural_recruiter_email', response.email);
-            localStorage.setItem('neural_recruiter', JSON.stringify({
+            localStorage.setItem('nh_recruiter', JSON.stringify({
                 id: response.recruiter_id,
                 full_name: response.full_name,
                 company_name: response.company_name,
@@ -277,7 +281,7 @@ export default function SignIn() {
 
                                 <p className="text-center text-text-muted text-xs">
                                     New recruiter?{' '}
-                                    <button 
+                                    <button
                                         onClick={() => navigate('/recruiter/signup')}
                                         className="text-primary hover:underline"
                                     >

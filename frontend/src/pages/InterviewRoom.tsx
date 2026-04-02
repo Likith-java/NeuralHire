@@ -168,7 +168,6 @@ export default function InterviewRoom() {
       if (response.interview_complete) {
         setMessages((prev) => [
           ...prev,
-          { role: 'ai', text: response.aria_feedback },
           { role: 'ai', text: 'Interview Complete! Redirecting to your report...' },
         ]);
         setTimeout(() => {
@@ -178,13 +177,12 @@ export default function InterviewRoom() {
       } else {
         setMessages((prev) => [
           ...prev,
-          { role: 'ai', text: response.aria_feedback },
           { role: 'ai', text: response.next_question || '' },
         ]);
 
         setQuestionId(response.next_question_id || 0);
         setQuestionNumber(response.question_number);
-        const ariaFullText = `${response.aria_feedback}. ${response.next_question || ''}`;
+        const ariaFullText = response.next_question || '';
         setCurrentQuestion(ariaFullText);
         localStorage.setItem('neural_question_id', String(response.next_question_id || 0));
         localStorage.setItem('neural_question_number', String(response.question_number));

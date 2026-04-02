@@ -20,14 +20,15 @@ export default function RecruiterLogin() {
     try {
       const response = await api.post('/api/recruiter/login', { email, password });
       const { session_token, recruiter_id, full_name, company_name } = response.data;
-      
+
       localStorage.setItem('nh_recruiter_token', session_token);
+      localStorage.setItem('neural_role', 'recruiter');
       localStorage.setItem('nh_recruiter', JSON.stringify({
         id: recruiter_id,
         full_name,
         company_name
       }));
-      
+
       navigate('/dashboard');
     } catch (err: any) {
       setError(err.response?.data?.detail || 'Login failed. Please try again.');
@@ -43,14 +44,14 @@ export default function RecruiterLogin() {
           backgroundImage: 'repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(124,106,247,0.1) 2px, rgba(124,106,247,0.1) 4px)',
         }}
       />
-      
+
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         className="relative w-full max-w-md mx-4"
       >
         <div className="absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-[#7c6af7] to-[#f76a8c]" />
-        
+
         <div className="bg-[#12121a] border border-[#1e1e30] rounded-lg p-8 shadow-2xl">
           <div className="text-center mb-8">
             <h1 className="text-3xl font-bold">
@@ -142,7 +143,7 @@ export default function RecruiterLogin() {
           </p>
 
           <p className="text-center text-gray-600 text-xs font-mono mt-6">
-            NeuralHire OS · Agentica 2.0 · Powered by Claude Sonnet 4.5
+            NeuralHire OS · Agentica 2.0
           </p>
         </div>
       </motion.div>
